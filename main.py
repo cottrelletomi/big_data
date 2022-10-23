@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import random
 from collections import deque
 
-df = pd.read_csv('ressources/data_2017.csv', sep =';')
+df = pd.read_csv('ressources/DATA-TEST.csv', sep =';')
 df_authors = df.assign(authors=df['authors'].str.split(";")).explode('authors')[['authors']]
 
 
@@ -112,8 +112,8 @@ def number_of_network_components(graph):
 #print(number_of_network_components(graph))
 
 #Diamètre du réseau
-matrix = matrix_shortest_path(graph)
-print(np.amax(matrix))
+#matrix = matrix_shortest_path(graph)
+#print(np.amax(matrix))
 
 
 #Est-il scale-free ? Si oui, quelle est la valeur de l'exposant
