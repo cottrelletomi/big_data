@@ -38,8 +38,8 @@ for index, row in df.iterrows():
 #Distribution en degrés
 def distribution_in_degrees():
     x = [len(adjacent_list) for adjacent_list in graph]
-    min, max = min(x), 40
-    plt.hist(x, bins=range(min, max), color = 'blue', edgecolor = 'white')
+    MIN, MAX = min(x), 25
+    plt.hist(x, bins=range(MIN, MAX), color = 'blue', edgecolor = 'white')
     plt.xlabel('Degré des sommets')
     plt.ylabel('Nombres de sommets')
     plt.title('Distribution des degrés')
@@ -49,7 +49,7 @@ def distribution_in_degrees():
 #Moyenne des plus courts chemins
 def bfs(graph, start):
     size = len(graph)
-    shortest_path = np.zeros(size) #[0 for _ in range(len(graph))]
+    shortest_path = [0 for _ in range(len(graph))] #np.zeros(size)
     mark = np.full(size, False)
 
     visited = []
@@ -75,13 +75,19 @@ def matrix_shortest_path(graph):
     size = len(graph)
     matrix = np.empty([size, size])
     for i in range(0, size):
-        if i == 6000:
-            print("1/2")
+        #if i == 6000: print("1/2")
         matrix[i] = bfs(graph, i)
     return matrix
 
 def average_shortest_path_length(graph):
-    return None
+    size = len(graph)
+    matrix = matrix_shortest_path(graph)
+    upper_sum = np.triu(matrix).sum() - np.trace(matrix)
+    lower_sum = np.tril(matrix).sum() - np.trace(matrix)
+    return (2 / (size * (size - 1))) * upper_sum
+
+print(average_shortest_path_length(graph))
+#moyenne: 6.950019747204883
 
 #Nombre de composantes du réseau
 def dfs(graph, node):
