@@ -36,6 +36,7 @@ for index, row in df.iterrows():
                 graph[map_authors[author]].append((map_authors[contributor], row['articles']))
 
 #Save files for Gephi
+#import files : https://www.youtube.com/watch?v=FpOIbhOmGUs
 def save_file():
     #Save nodes
     df_nodes = pd.DataFrame(enumerate(authors), columns=["Id", "Label"])
