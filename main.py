@@ -32,8 +32,24 @@ for index, row in df.iterrows():
     for author in row_authors:
         for contributor in row_authors:
             if author != contributor:
-                graph[map_authors[author]].append((map_authors[contributor], index))
-                #graph[map_authors[author]].append((contributor, row['articles']))
+                #graph[map_authors[author]].append((map_authors[contributor], index))
+                graph[map_authors[author]].append((map_authors[contributor], row['articles']))
+
+#Save files for Gephi
+def save_file():
+    #Save nodes
+    df_nodes = pd.DataFrame(enumerate(authors), columns=["Id", "Label"])
+    df_nodes.to_csv("gephi/nodes.csv", sep=";", index=False)
+
+    #Save edges
+    edges = []
+    for index, row in enumerate(graph):
+        for column in row:
+            edges.append((index, column[0], "Directed", column[1]))
+    df_edges = pd.DataFrame(edges, columns=["Source", "Target", "Type", "Label"])
+    df_edges.to_csv("gephi/edges.csv", sep=";", index=False)
+
+#save_file()
 
 #Distribution en degrés
 def distribution_in_degrees():
@@ -86,7 +102,7 @@ def average_shortest_path_length(graph):
     lower_sum = np.tril(matrix).sum() - np.trace(matrix)
     return (2 / (size * (size - 1))) * upper_sum
 
-print(average_shortest_path_length(graph))
+#print(average_shortest_path_length(graph))
 #moyenne: 6.950019747204883
 
 #Nombre de composantes du réseau
