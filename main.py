@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import random
 from collections import deque
 
-df = pd.read_csv('ressources/DATA-TEST.csv', sep =';')
+df = pd.read_csv('ressources/DATA-TEST-1000.csv', sep =';')
 df_authors = df.assign(authors=df['authors'].str.split(";")).explode('authors')[['authors']]
 
 
@@ -42,13 +42,24 @@ def save_file():
     df_nodes = pd.DataFrame(enumerate(authors), columns=["Id", "Label"])
     df_nodes.to_csv("gephi/nodes.csv", sep=";", index=False)
 
-    #Save edges
+    #Save edges (Directed graph) -> 73128
     edges = []
     for index, row in enumerate(graph):
         for column in row:
             edges.append((index, column[0], "Directed", column[1]))
     df_edges = pd.DataFrame(edges, columns=["Source", "Target", "Type", "Label"])
     df_edges.to_csv("gephi/edges.csv", sep=";", index=False)
+
+    # Save edges (Undirected graph) -> 36564
+    edges = []
+    edges_undirected = []
+    for _, row in df_edges.iterrows():
+        if (row["Target"], row["Source"]) not in edges:
+            edges.append((row["Source"], row["Target"]))
+            edges_undirected.append((row["Source"], row["Target"], "Undirected", row["Label"]))
+    print(len(edges_undirected))
+    df_edges = pd.DataFrame(edges_undirected, columns=["Source", "Target", "Type", "Label"])
+    df_edges.to_csv("gephi/edges_undirected.csv", sep=";", index=False)
 
 #save_file()
 
@@ -143,3 +154,98 @@ def number_of_network_components(graph):
 
 
 # NEXT --> edges betweenness : Nombre de plus court chemin passant à travers une arête
+def edge_score(graph, nodes, dw):
+    edge_score = {}
+    visited = []
+    queue = deque()
+    queue.extend(nodes)
+
+    while queue:
+        node = queue.popleft()
+        if node not in visited:
+            visited.append(node)
+            unvisited = []
+            for n in graph[node]:
+                if n[0] not in visited:
+                    unvisited.append(n[0])
+                    if node in nodes:
+                        edge_score[(node, n[0])] = dw[n[0]]['weight'] / dw[node]['weight']
+                    else:
+                        s = 1 + sum([edge_score[edge] for edge in edge_score.keys() if node == edge[1]])
+                        edge_score[(node, n[0])] = s * (dw[n[0]]['weight'] / dw[node]['weight'])
+            queue.extend(unvisited)
+    return edge_score
+
+def node_distance_weight(graph, start):
+    visited = []
+    queue = deque()
+    queue.append(start)
+
+    nodes = []
+    node_distance_weight = [{} for _ in range(len(graph))]
+    node_distance_weight[start] = {'distance': 0, 'weight': 1}
+
+    while queue:
+        node = queue.popleft()
+        if node not in visited:
+            visited.append(node)
+            unvisited = []
+            for n in graph[node]:
+                if n[0] not in visited:
+                    unvisited.append(n[0])
+                    if 'distance' not in node_distance_weight[n[0]]:
+                        node_distance_weight[n[0]] = {'distance': node_distance_weight[node]['distance'] + 1, 'weight': node_distance_weight[node]['weight']}
+                    else:
+                        if node_distance_weight[n[0]]['distance'] == node_distance_weight[node]['distance'] + 1:
+                            node_distance_weight[n[0]]['weight'] = node_distance_weight[n[0]]['weight'] + node_distance_weight[node]['weight']
+                        else:
+                            pass
+                            #print('do nothing')
+            queue.extend(unvisited)
+            if unvisited:
+                nodes = unvisited
+    return nodes, node_distance_weight
+
+def edge_betweenness_centrality(graph, start):
+    nodes, distance_weight = node_distance_weight(graph, start)
+    return edge_score(graph, nodes, distance_weight)
+
+def total_betweenness_all_edges(graph):
+    size = len(graph)
+    total = {}
+    for node in range(size):
+        edges = edge_betweenness_centrality(graph, node)
+        for edge in edges.keys():
+            if edge not in total:
+                total[edge] = edges[edge]
+            else:
+                total[edge] += edges[edge]
+    return max(total, key=total.get, default=None)
+
+def girvan_newman(graph):
+    g = graph
+    while any(g):
+        edge = total_betweenness_all_edges(g)
+        if edge is not None:
+            for e in g[edge[0]]:
+                if e[0] == edge[1]:
+                    g[edge[0]].remove(e)
+            #print("New graph :")
+            #print(g)
+            print("Edge removed :")
+            print(edge)
+        else:
+            print(g)
+            break
+
+# graph = [
+#     [(1, 'a1'), (2, 'a2')],
+#     [(0, 'a1'), (3, 'a3')],
+#     [(0, 'a2'), (3, 'a4'), (4, 'a6')],
+#     [(1, 'a3'), (2, 'a4'), (5, 'a5')],
+#     [(2, 'a6'), (5, 'a7'), (6, 'a8')],
+#     [(3, 'a5'), (4, 'a7')],
+#     [(4, 'a8')]
+# ]
+
+girvan_newman(graph)

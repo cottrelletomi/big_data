@@ -1,0 +1,326 @@
+Source;Target;Type;Label
+1;2;Undirected;Defining Architecture Components of the Big Data Ecosystem
+1;3;Undirected;Defining Architecture Components of the Big Data Ecosystem
+2;3;Undirected;Defining Architecture Components of the Big Data Ecosystem
+4;5;Undirected;Big Data with Ten Big Characteristics
+4;6;Undirected;Big Data with Ten Big Characteristics
+4;63;Undirected;A Mathematical Foundation of Big Data
+4;139;Undirected;The Spectrum of Big Data Analytics
+5;6;Undirected;Big Data with Ten Big Characteristics
+9;10;Undirected;Experimental Teaching Design and Practice on Big Data Course
+9;11;Undirected;Experimental Teaching Design and Practice on Big Data Course
+9;12;Undirected;Experimental Teaching Design and Practice on Big Data Course
+10;11;Undirected;Experimental Teaching Design and Practice on Big Data Course
+10;12;Undirected;Experimental Teaching Design and Practice on Big Data Course
+11;12;Undirected;Experimental Teaching Design and Practice on Big Data Course
+13;14;Undirected;A SURVEY ON BIG DATA ANALYSIS AND CHALLENGES
+17;65;Undirected;Big Data Analytics: A Cognitive Perspectives
+18;19;Undirected;Research on Application of Healthcare Data in Big Data Era
+18;20;Undirected;Research on Application of Healthcare Data in Big Data Era
+18;21;Undirected;Research on Application of Healthcare Data in Big Data Era
+18;20;Undirected;Research on Visualization and Application of Medical Big Data
+18;157;Undirected;Research on Visualization and Application of Medical Big Data
+19;20;Undirected;Research on Application of Healthcare Data in Big Data Era
+19;21;Undirected;Research on Application of Healthcare Data in Big Data Era
+20;21;Undirected;Research on Application of Healthcare Data in Big Data Era
+20;157;Undirected;Research on Visualization and Application of Medical Big Data
+22;23;Undirected;Big Data for Institutional Planning, Decision Support and academic excellence
+24;25;Undirected;Big data challenge: a data management perspective
+24;26;Undirected;Big data challenge: a data management perspective
+24;27;Undirected;Big data challenge: a data management perspective
+24;28;Undirected;Big data challenge: a data management perspective
+24;29;Undirected;Big data challenge: a data management perspective
+24;30;Undirected;Big data challenge: a data management perspective
+25;26;Undirected;Big data challenge: a data management perspective
+25;27;Undirected;Big data challenge: a data management perspective
+25;28;Undirected;Big data challenge: a data management perspective
+25;29;Undirected;Big data challenge: a data management perspective
+25;30;Undirected;Big data challenge: a data management perspective
+26;27;Undirected;Big data challenge: a data management perspective
+26;28;Undirected;Big data challenge: a data management perspective
+26;29;Undirected;Big data challenge: a data management perspective
+26;30;Undirected;Big data challenge: a data management perspective
+27;28;Undirected;Big data challenge: a data management perspective
+27;29;Undirected;Big data challenge: a data management perspective
+27;30;Undirected;Big data challenge: a data management perspective
+28;29;Undirected;Big data challenge: a data management perspective
+28;30;Undirected;Big data challenge: a data management perspective
+29;30;Undirected;Big data challenge: a data management perspective
+31;32;Undirected;Census Big Data Analytics Use: International Cross Case Analysis
+31;33;Undirected;Census Big Data Analytics Use: International Cross Case Analysis
+31;34;Undirected;Census Big Data Analytics Use: International Cross Case Analysis
+32;33;Undirected;Census Big Data Analytics Use: International Cross Case Analysis
+32;34;Undirected;Census Big Data Analytics Use: International Cross Case Analysis
+33;34;Undirected;Census Big Data Analytics Use: International Cross Case Analysis
+35;36;Undirected;Management of Distributed Big Data for Social Networks
+37;38;Undirected;New Engine to Promote Big Data Industry Upgrade
+37;39;Undirected;New Engine to Promote Big Data Industry Upgrade
+38;39;Undirected;New Engine to Promote Big Data Industry Upgrade
+40;41;Undirected;Big Data, Big Data Analytics Capability, and Sustainable Innovation Performance
+40;42;Undirected;Big Data, Big Data Analytics Capability, and Sustainable Innovation Performance
+41;42;Undirected;Big Data, Big Data Analytics Capability, and Sustainable Innovation Performance
+43;44;Undirected;On the Research of Big Data Storage
+45;46;Undirected;Attribute Relationship Evaluation Methodology for Big Data Security
+45;47;Undirected;Attribute Relationship Evaluation Methodology for Big Data Security
+46;47;Undirected;Attribute Relationship Evaluation Methodology for Big Data Security
+49;50;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+49;51;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+49;52;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+49;53;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+49;54;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+49;51;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+49;50;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+49;52;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+49;62;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+49;54;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+50;51;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+50;52;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+50;53;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+50;54;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+50;51;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+50;52;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+50;62;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+50;54;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+51;52;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+51;53;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+51;54;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+51;52;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+51;62;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+51;54;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+52;53;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+52;54;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+52;62;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+52;54;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+53;54;Undirected;Technical Aspects and Case Study of Big Data based Condition Monitoring of Power Apparatuses
+54;62;Undirected;Study of the key technologies of electric power big data and its application prospects in smart grid
+55;56;Undirected;The anatomy of big data computing
+55;57;Undirected;The anatomy of big data computing
+55;58;Undirected;The anatomy of big data computing
+55;59;Undirected;The anatomy of big data computing
+56;57;Undirected;The anatomy of big data computing
+56;58;Undirected;The anatomy of big data computing
+56;59;Undirected;The anatomy of big data computing
+57;58;Undirected;The anatomy of big data computing
+57;59;Undirected;The anatomy of big data computing
+58;59;Undirected;The anatomy of big data computing
+64;76;Undirected;Big Data: The V's of the Game Changer Paradigm
+67;68;Undirected;Research on the Impact of Big Data Capabilities on Government's Smart Service Performance: Empirical Evidence From China
+71;72;Undirected;Big Data Analytics in Health Care
+74;75;Undirected;Big Data Analysis: Issues and Challenges
+77;78;Undirected;Main sources of Big Data for the companies
+79;80;Undirected;Going Big: A Large-Scale Study on What Big Data Developers Ask
+81;82;Undirected;Commentary: Principles, Approaches and Challenges of Applying Big Data in Safety Psychology Research
+81;83;Undirected;Commentary: Principles, Approaches and Challenges of Applying Big Data in Safety Psychology Research
+81;84;Undirected;Commentary: Principles, Approaches and Challenges of Applying Big Data in Safety Psychology Research
+82;83;Undirected;Commentary: Principles, Approaches and Challenges of Applying Big Data in Safety Psychology Research
+82;84;Undirected;Commentary: Principles, Approaches and Challenges of Applying Big Data in Safety Psychology Research
+83;84;Undirected;Commentary: Principles, Approaches and Challenges of Applying Big Data in Safety Psychology Research
+85;86;Undirected;Tensor-Based Big Biometric Data Reduction in the Cloud
+85;87;Undirected;Tensor-Based Big Biometric Data Reduction in the Cloud
+86;87;Undirected;Tensor-Based Big Biometric Data Reduction in the Cloud
+88;89;Undirected;Quality Issues with Big data Analytics
+90;91;Undirected;A Survey of Big Data Security and Privacy Preserving
+90;92;Undirected;A Survey of Big Data Security and Privacy Preserving
+90;93;Undirected;A Survey of Big Data Security and Privacy Preserving
+91;92;Undirected;A Survey of Big Data Security and Privacy Preserving
+91;93;Undirected;A Survey of Big Data Security and Privacy Preserving
+92;93;Undirected;A Survey of Big Data Security and Privacy Preserving
+94;95;Undirected;Big Data Analytics in Healthcare Systems
+94;95;Undirected;Machine Learning in Big Data
+96;97;Undirected;Big Data and Advanced Analytics Tools
+98;99;Undirected;Big Data Validation Case Study
+98;100;Undirected;Big Data Validation Case Study
+99;100;Undirected;Big Data Validation Case Study
+101;102;Undirected;Leveraging Frontline Employees' Small Data and Firm-Level Big Data in Frontline Management: An Absorptive Capacity Perspective
+101;103;Undirected;Leveraging Frontline Employees' Small Data and Firm-Level Big Data in Frontline Management: An Absorptive Capacity Perspective
+101;104;Undirected;Leveraging Frontline Employees' Small Data and Firm-Level Big Data in Frontline Management: An Absorptive Capacity Perspective
+101;105;Undirected;Leveraging Frontline Employees' Small Data and Firm-Level Big Data in Frontline Management: An Absorptive Capacity Perspective
+102;103;Undirected;Leveraging Frontline Employees' Small Data and Firm-Level Big Data in Frontline Management: An Absorptive Capacity Perspective
+102;104;Undirected;Leveraging Frontline Employees' Small Data and Firm-Level Big Data in Frontline Management: An Absorptive Capacity Perspective
+102;105;Undirected;Leveraging Frontline Employees' Small Data and Firm-Level Big Data in Frontline Management: An Absorptive Capacity Perspective
+103;104;Undirected;Leveraging Frontline Employees' Small Data and Firm-Level Big Data in Frontline Management: An Absorptive Capacity Perspective
+103;105;Undirected;Leveraging Frontline Employees' Small Data and Firm-Level Big Data in Frontline Management: An Absorptive Capacity Perspective
+104;105;Undirected;Leveraging Frontline Employees' Small Data and Firm-Level Big Data in Frontline Management: An Absorptive Capacity Perspective
+106;107;Undirected;Service-generated Big Data and Big Data-as-a-Service: An Overview
+106;108;Undirected;Service-generated Big Data and Big Data-as-a-Service: An Overview
+107;108;Undirected;Service-generated Big Data and Big Data-as-a-Service: An Overview
+109;110;Undirected;From Big Data to Big Service
+109;111;Undirected;From Big Data to Big Service
+109;112;Undirected;From Big Data to Big Service
+109;113;Undirected;From Big Data to Big Service
+110;111;Undirected;From Big Data to Big Service
+110;112;Undirected;From Big Data to Big Service
+110;113;Undirected;From Big Data to Big Service
+111;112;Undirected;From Big Data to Big Service
+111;113;Undirected;From Big Data to Big Service
+112;113;Undirected;From Big Data to Big Service
+114;115;Undirected;Study on Impact and Reform of Big Data on Higher Education in China
+114;116;Undirected;Study on Impact and Reform of Big Data on Higher Education in China
+114;117;Undirected;Study on Impact and Reform of Big Data on Higher Education in China
+115;116;Undirected;Study on Impact and Reform of Big Data on Higher Education in China
+115;117;Undirected;Study on Impact and Reform of Big Data on Higher Education in China
+116;117;Undirected;Study on Impact and Reform of Big Data on Higher Education in China
+118;119;Undirected;Big Data Assurance Evaluation: An SLA-based Approach
+118;120;Undirected;Big Data Assurance Evaluation: An SLA-based Approach
+118;121;Undirected;Big Data Assurance Evaluation: An SLA-based Approach
+118;122;Undirected;Big Data Assurance Evaluation: An SLA-based Approach
+119;120;Undirected;Big Data Assurance Evaluation: An SLA-based Approach
+119;121;Undirected;Big Data Assurance Evaluation: An SLA-based Approach
+119;122;Undirected;Big Data Assurance Evaluation: An SLA-based Approach
+120;121;Undirected;Big Data Assurance Evaluation: An SLA-based Approach
+120;122;Undirected;Big Data Assurance Evaluation: An SLA-based Approach
+121;122;Undirected;Big Data Assurance Evaluation: An SLA-based Approach
+125;126;Undirected;Spatial Data Mining in the Context of Big Data
+125;126;Undirected;Spatial Data Mining: A Perspective of Big Data
+127;128;Undirected;The state of the art and taxonomy of big data analytics: view from new big data framework
+127;129;Undirected;The state of the art and taxonomy of big data analytics: view from new big data framework
+127;130;Undirected;The state of the art and taxonomy of big data analytics: view from new big data framework
+127;131;Undirected;The state of the art and taxonomy of big data analytics: view from new big data framework
+128;129;Undirected;The state of the art and taxonomy of big data analytics: view from new big data framework
+128;130;Undirected;The state of the art and taxonomy of big data analytics: view from new big data framework
+128;131;Undirected;The state of the art and taxonomy of big data analytics: view from new big data framework
+129;130;Undirected;The state of the art and taxonomy of big data analytics: view from new big data framework
+129;131;Undirected;The state of the art and taxonomy of big data analytics: view from new big data framework
+130;131;Undirected;The state of the art and taxonomy of big data analytics: view from new big data framework
+132;133;Undirected;Research and Design of Data Storage Scheme for Electric Power Big Data
+132;134;Undirected;Research and Design of Data Storage Scheme for Electric Power Big Data
+132;135;Undirected;Research and Design of Data Storage Scheme for Electric Power Big Data
+132;136;Undirected;Research and Design of Data Storage Scheme for Electric Power Big Data
+133;134;Undirected;Research and Design of Data Storage Scheme for Electric Power Big Data
+133;135;Undirected;Research and Design of Data Storage Scheme for Electric Power Big Data
+133;136;Undirected;Research and Design of Data Storage Scheme for Electric Power Big Data
+134;135;Undirected;Research and Design of Data Storage Scheme for Electric Power Big Data
+134;136;Undirected;Research and Design of Data Storage Scheme for Electric Power Big Data
+135;136;Undirected;Research and Design of Data Storage Scheme for Electric Power Big Data
+137;138;Undirected;Big Data - Concepts, Architectures and Technologies
+140;141;Undirected;Big Data security and privacy: A review
+140;142;Undirected;Big Data security and privacy: A review
+140;143;Undirected;Big Data security and privacy: A review
+141;142;Undirected;Big Data security and privacy: A review
+141;143;Undirected;Big Data security and privacy: A review
+142;143;Undirected;Big Data security and privacy: A review
+145;146;Undirected;Big Data Reduction Methods: A Survey
+145;147;Undirected;Big Data Reduction Methods: A Survey
+145;148;Undirected;Big Data Reduction Methods: A Survey
+145;149;Undirected;Big Data Reduction Methods: A Survey
+145;150;Undirected;Big Data Reduction Methods: A Survey
+146;147;Undirected;Big Data Reduction Methods: A Survey
+146;148;Undirected;Big Data Reduction Methods: A Survey
+146;149;Undirected;Big Data Reduction Methods: A Survey
+146;150;Undirected;Big Data Reduction Methods: A Survey
+147;148;Undirected;Big Data Reduction Methods: A Survey
+147;149;Undirected;Big Data Reduction Methods: A Survey
+147;150;Undirected;Big Data Reduction Methods: A Survey
+148;149;Undirected;Big Data Reduction Methods: A Survey
+148;150;Undirected;Big Data Reduction Methods: A Survey
+149;150;Undirected;Big Data Reduction Methods: A Survey
+151;152;Undirected;Analytics, challenges and applications in big data environment: a survey
+153;154;Undirected;Quality Management in Big Data
+155;156;Undirected;A Police Big Data Analytics Platform: Framework and Implications
+158;159;Undirected;Big Data: Big Promises for Information Security
+161;162;Undirected;A SWOT analysis of big data
+161;163;Undirected;A SWOT analysis of big data
+162;163;Undirected;A SWOT analysis of big data
+164;165;Undirected;Energy Efficient Strategy for Cloud based Big Data
+167;168;Undirected;A Synthesis of Big Data Definition and Characteristics
+169;170;Undirected;Big data application framework and its feasibility analysis in library
+169;171;Undirected;Big data application framework and its feasibility analysis in library
+169;172;Undirected;Big data application framework and its feasibility analysis in library
+170;171;Undirected;Big data application framework and its feasibility analysis in library
+170;172;Undirected;Big data application framework and its feasibility analysis in library
+171;172;Undirected;Big data application framework and its feasibility analysis in library
+173;174;Undirected;Large Scale Hierarchical Classification Framework for Network Big Data
+173;175;Undirected;Large Scale Hierarchical Classification Framework for Network Big Data
+174;175;Undirected;Large Scale Hierarchical Classification Framework for Network Big Data
+176;177;Undirected;Big Data Analytics in Mobile Cellular Networks
+176;178;Undirected;Big Data Analytics in Mobile Cellular Networks
+176;179;Undirected;Big Data Analytics in Mobile Cellular Networks
+176;180;Undirected;Big Data Analytics in Mobile Cellular Networks
+176;181;Undirected;Big Data Analytics in Mobile Cellular Networks
+177;178;Undirected;Big Data Analytics in Mobile Cellular Networks
+177;179;Undirected;Big Data Analytics in Mobile Cellular Networks
+177;180;Undirected;Big Data Analytics in Mobile Cellular Networks
+177;181;Undirected;Big Data Analytics in Mobile Cellular Networks
+178;179;Undirected;Big Data Analytics in Mobile Cellular Networks
+178;180;Undirected;Big Data Analytics in Mobile Cellular Networks
+178;181;Undirected;Big Data Analytics in Mobile Cellular Networks
+179;180;Undirected;Big Data Analytics in Mobile Cellular Networks
+179;181;Undirected;Big Data Analytics in Mobile Cellular Networks
+180;181;Undirected;Big Data Analytics in Mobile Cellular Networks
+183;184;Undirected;Survey of Big Data-as-a-Service Type
+183;185;Undirected;Survey of Big Data-as-a-Service Type
+183;186;Undirected;Survey of Big Data-as-a-Service Type
+184;185;Undirected;Survey of Big Data-as-a-Service Type
+184;186;Undirected;Survey of Big Data-as-a-Service Type
+185;186;Undirected;Survey of Big Data-as-a-Service Type
+187;188;Undirected;Big Data and Organizational Learning: Conceptualizing the Link
+189;190;Undirected;Querying Big Data from a Database Perspective
+189;191;Undirected;Querying Big Data from a Database Perspective
+189;192;Undirected;Querying Big Data from a Database Perspective
+189;193;Undirected;Querying Big Data from a Database Perspective
+189;194;Undirected;Querying Big Data from a Database Perspective
+189;195;Undirected;Querying Big Data from a Database Perspective
+190;191;Undirected;Querying Big Data from a Database Perspective
+190;192;Undirected;Querying Big Data from a Database Perspective
+190;193;Undirected;Querying Big Data from a Database Perspective
+190;194;Undirected;Querying Big Data from a Database Perspective
+190;195;Undirected;Querying Big Data from a Database Perspective
+191;192;Undirected;Querying Big Data from a Database Perspective
+191;193;Undirected;Querying Big Data from a Database Perspective
+191;194;Undirected;Querying Big Data from a Database Perspective
+191;195;Undirected;Querying Big Data from a Database Perspective
+192;193;Undirected;Querying Big Data from a Database Perspective
+192;194;Undirected;Querying Big Data from a Database Perspective
+192;195;Undirected;Querying Big Data from a Database Perspective
+193;194;Undirected;Querying Big Data from a Database Perspective
+193;195;Undirected;Querying Big Data from a Database Perspective
+194;195;Undirected;Querying Big Data from a Database Perspective
+197;198;Undirected;Big Data Impacts and Challenges: A Review
+197;199;Undirected;Big Data Impacts and Challenges: A Review
+198;199;Undirected;Big Data Impacts and Challenges: A Review
+200;201;Undirected;Toward a Novel Measurement Framework for Big Data (MEGA)
+202;203;Undirected;Health diagnosis robot based on healthcare big data and fuzzy matching
+202;204;Undirected;Health diagnosis robot based on healthcare big data and fuzzy matching
+203;204;Undirected;Health diagnosis robot based on healthcare big data and fuzzy matching
+206;207;Undirected;Research on the Flows of Big Data Processing Technology
+206;208;Undirected;Research on the Flows of Big Data Processing Technology
+206;209;Undirected;Research on the Flows of Big Data Processing Technology
+207;208;Undirected;Research on the Flows of Big Data Processing Technology
+207;209;Undirected;Research on the Flows of Big Data Processing Technology
+208;209;Undirected;Research on the Flows of Big Data Processing Technology
+210;211;Undirected;An Iterative Methodology for Defining Big Data Analytics Architectures
+210;212;Undirected;An Iterative Methodology for Defining Big Data Analytics Architectures
+211;212;Undirected;An Iterative Methodology for Defining Big Data Analytics Architectures
+213;214;Undirected;Ontology Learning Based on Word Embeddings for Text Big Data Extraction
+213;215;Undirected;Ontology Learning Based on Word Embeddings for Text Big Data Extraction
+214;215;Undirected;Ontology Learning Based on Word Embeddings for Text Big Data Extraction
+216;217;Undirected;Study of Big Data Analysis Procedures
+216;218;Undirected;Study of Big Data Analysis Procedures
+217;218;Undirected;Study of Big Data Analysis Procedures
+219;220;Undirected;Power Big Data platform Based on Hadoop Technology
+219;221;Undirected;Power Big Data platform Based on Hadoop Technology
+219;222;Undirected;Power Big Data platform Based on Hadoop Technology
+220;221;Undirected;Power Big Data platform Based on Hadoop Technology
+220;222;Undirected;Power Big Data platform Based on Hadoop Technology
+221;222;Undirected;Power Big Data platform Based on Hadoop Technology
+223;224;Undirected;A contextual parsing of big data values to quantity surveyors
+223;225;Undirected;A contextual parsing of big data values to quantity surveyors
+224;225;Undirected;A contextual parsing of big data values to quantity surveyors
+226;227;Undirected;Research on Semantic plus plus Computing Based on Big Data Environment
+226;228;Undirected;Research on Semantic plus plus Computing Based on Big Data Environment
+226;229;Undirected;Research on Semantic plus plus Computing Based on Big Data Environment
+226;230;Undirected;Research on Semantic plus plus Computing Based on Big Data Environment
+227;228;Undirected;Research on Semantic plus plus Computing Based on Big Data Environment
+227;229;Undirected;Research on Semantic plus plus Computing Based on Big Data Environment
+227;230;Undirected;Research on Semantic plus plus Computing Based on Big Data Environment
+228;229;Undirected;Research on Semantic plus plus Computing Based on Big Data Environment
+228;230;Undirected;Research on Semantic plus plus Computing Based on Big Data Environment
+229;230;Undirected;Research on Semantic plus plus Computing Based on Big Data Environment
+231;232;Undirected;A glossary for big data in population and public health: discussion and commentary on terminology and research methods
+231;233;Undirected;A glossary for big data in population and public health: discussion and commentary on terminology and research methods
+232;233;Undirected;A glossary for big data in population and public health: discussion and commentary on terminology and research methods
+234;235;Undirected;Big Data Quality Analysis
+234;236;Undirected;Big Data Quality Analysis
+235;236;Undirected;Big Data Quality Analysis
+237;238;Undirected;Predictive Big Data Analytics in Healthcare
+239;240;Undirected;Research on the Application Strategy of Big Data of Securities Companies
