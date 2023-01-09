@@ -68,7 +68,7 @@ def save_file(articles, authors, graph, path, undirected=False):
 
 
 # Distribution en degrés
-def distribution_in_degrees():
+def distribution_in_degrees(graph):
     x = [len(adjacent_list) for adjacent_list in graph]
     MIN, MAX = min(x), 25
     plt.hist(x, bins=range(MIN, MAX), color='blue', edgecolor='white')
@@ -78,7 +78,7 @@ def distribution_in_degrees():
     plt.show()
 
 
-# distribution_in_degrees()
+# distribution_in_degrees(graph)
 
 # Moyenne des plus courts chemins
 def bfs(graph, start):
@@ -142,20 +142,21 @@ def dfs(graph, node):
     return visited
 
 
-def number_of_network_components(graph):
+def network_components(graph):
     size = len(graph)
     visited = []
-    nb = 0
+    components = []
     while len(visited) != size:
         random_node = random.randrange(size)
         while random_node in visited:
             random_node = random.randrange(size)
-        visited.extend(dfs(graph, random_node))
-        nb += 1
-    return nb
+        component = dfs(graph, random_node)
+        visited.extend(component)
+        components.append(component)
+    return components
 
-
-# print(number_of_network_components(graph))
+# components = network_components(graph)
+# print(len(components))
 
 # Diamètre du réseau
 # matrix = matrix_shortest_path(graph)
