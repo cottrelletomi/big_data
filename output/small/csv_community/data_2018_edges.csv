@@ -1,0 +1,838 @@
+Source;Target;Type;Label
+2;4;Undirected;the study of cognitive radio prediction based on big data
+2;0;Undirected;the study of cognitive radio prediction based on big data
+2;3;Undirected;the study of cognitive radio prediction based on big data
+2;1;Undirected;the study of cognitive radio prediction based on big data
+3;4;Undirected;the study of cognitive radio prediction based on big data
+3;0;Undirected;the study of cognitive radio prediction based on big data
+3;1;Undirected;the study of cognitive radio prediction based on big data
+5;8;Undirected;big data challenges and data aggregation strategies in wireless sensor networks
+5;7;Undirected;big data challenges and data aggregation strategies in wireless sensor networks
+5;6;Undirected;big data challenges and data aggregation strategies in wireless sensor networks
+6;8;Undirected;big data challenges and data aggregation strategies in wireless sensor networks
+6;7;Undirected;big data challenges and data aggregation strategies in wireless sensor networks
+7;8;Undirected;big data challenges and data aggregation strategies in wireless sensor networks
+9;10;Undirected;the practice teaching system of big data talent training in universities
+10;13;Undirected;teaching system structure in financial college based on big data
+10;11;Undirected;professional big data technology training courses in universities
+11;12;Undirected;professional big data technology training courses in universities
+16;21;Undirected;design of big data platform for tft-lcd line yield analysis
+16;20;Undirected;design of big data platform for tft-lcd line yield analysis
+16;14;Undirected;design of big data platform for tft-lcd line yield analysis
+16;19;Undirected;design of big data platform for tft-lcd line yield analysis
+16;18;Undirected;design of big data platform for tft-lcd line yield analysis
+16;17;Undirected;design of big data platform for tft-lcd line yield analysis
+16;15;Undirected;design of big data platform for tft-lcd line yield analysis
+17;21;Undirected;design of big data platform for tft-lcd line yield analysis
+17;20;Undirected;design of big data platform for tft-lcd line yield analysis
+17;14;Undirected;design of big data platform for tft-lcd line yield analysis
+17;19;Undirected;design of big data platform for tft-lcd line yield analysis
+17;15;Undirected;design of big data platform for tft-lcd line yield analysis
+18;21;Undirected;design of big data platform for tft-lcd line yield analysis
+18;20;Undirected;design of big data platform for tft-lcd line yield analysis
+18;14;Undirected;design of big data platform for tft-lcd line yield analysis
+18;19;Undirected;design of big data platform for tft-lcd line yield analysis
+18;15;Undirected;design of big data platform for tft-lcd line yield analysis
+19;21;Undirected;design of big data platform for tft-lcd line yield analysis
+19;20;Undirected;design of big data platform for tft-lcd line yield analysis
+19;14;Undirected;design of big data platform for tft-lcd line yield analysis
+19;15;Undirected;design of big data platform for tft-lcd line yield analysis
+22;24;Undirected;big data hysteria, cognizance and scope
+22;23;Undirected;big data hysteria, cognizance and scope
+23;24;Undirected;big data hysteria, cognizance and scope
+25;26;Undirected;the wisdom city based on the big data technology
+27;28;Undirected;a big data on private cloud agile provisioning framework based on openstack
+29;36;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+29;35;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+29;34;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+29;30;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+31;36;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+31;35;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+31;34;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+31;29;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+31;33;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+31;32;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+31;30;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+32;36;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+32;35;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+32;34;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+32;29;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+32;30;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+33;36;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+33;35;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+33;34;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+33;29;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+33;30;Undirected;time performance analysis of multi-cpu and multi-gpu in big data clustering computation
+37;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+37;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+37;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+37;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+37;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+37;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+37;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+37;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+37;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+37;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;49;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;48;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;37;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;41;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+39;40;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+40;41;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+41;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+41;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+41;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+41;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+41;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+41;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+41;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+41;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+41;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+41;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+42;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+42;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+42;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+42;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+42;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+42;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+42;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+42;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+42;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+42;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+43;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+43;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+43;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+43;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+43;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+43;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+43;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+43;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+43;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+43;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+44;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+44;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+44;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+44;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+44;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+44;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+44;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+44;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+44;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+44;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+45;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+45;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+45;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+45;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+45;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+45;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+45;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+45;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+45;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+45;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+46;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+46;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+46;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+46;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+46;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+46;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+46;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+46;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+46;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+46;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;49;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;48;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;37;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+47;38;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+48;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+48;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+48;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+48;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+48;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+48;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+48;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+48;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+48;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+48;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+49;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+49;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+49;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+49;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+49;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+49;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+49;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+49;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+49;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+49;50;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+50;59;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+50;58;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+50;57;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+50;56;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+50;55;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+50;54;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+50;53;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+50;52;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+50;51;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+50;38;Undirected;performance/outcomes data and physician process challenges for practical big data efforts in radiation oncology
+62;60;Undirected;big data implementation for inventory warehouse systems
+62;65;Undirected;big data implementation for inventory warehouse systems
+62;64;Undirected;big data implementation for inventory warehouse systems
+62;63;Undirected;big data implementation for inventory warehouse systems
+62;61;Undirected;big data implementation for inventory warehouse systems
+63;60;Undirected;big data implementation for inventory warehouse systems
+63;65;Undirected;big data implementation for inventory warehouse systems
+63;64;Undirected;big data implementation for inventory warehouse systems
+63;61;Undirected;big data implementation for inventory warehouse systems
+67;66;Undirected;application of time series analyses in big data: practical, research, and education implications
+67;68;Undirected;application of time series analyses in big data: practical, research, and education implications
+68;66;Undirected;application of time series analyses in big data: practical, research, and education implications
+70;69;Undirected;big data retrieval: taxonomy, techniques and feature analysis
+70;72;Undirected;big data retrieval: taxonomy, techniques and feature analysis
+70;71;Undirected;big data retrieval: taxonomy, techniques and feature analysis
+71;69;Undirected;big data retrieval: taxonomy, techniques and feature analysis
+71;72;Undirected;big data retrieval: taxonomy, techniques and feature analysis
+72;69;Undirected;big data retrieval: taxonomy, techniques and feature analysis
+73;84;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+73;83;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+73;74;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+75;80;Undirected;internet of vehicles in big data era
+75;79;Undirected;internet of vehicles in big data era
+75;78;Undirected;internet of vehicles in big data era
+75;77;Undirected;internet of vehicles in big data era
+75;76;Undirected;internet of vehicles in big data era
+75;74;Undirected;internet of vehicles in big data era
+76;80;Undirected;internet of vehicles in big data era
+76;79;Undirected;internet of vehicles in big data era
+76;78;Undirected;internet of vehicles in big data era
+76;77;Undirected;internet of vehicles in big data era
+76;74;Undirected;internet of vehicles in big data era
+81;84;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+81;83;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+81;73;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+81;82;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+81;74;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+82;84;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+82;83;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+82;73;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+82;74;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+83;84;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+83;74;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+84;74;Undirected;synergy of big data and 5g wireless networks: opportunities, approaches, and challenges
+85;86;Undirected;big data in public health: terminology, machine learning, and privacy
+89;87;Undirected;mystiko-blockchain meets big data
+89;93;Undirected;mystiko-blockchain meets big data
+89;92;Undirected;mystiko-blockchain meets big data
+89;91;Undirected;mystiko-blockchain meets big data
+89;90;Undirected;mystiko-blockchain meets big data
+89;88;Undirected;mystiko-blockchain meets big data
+90;87;Undirected;mystiko-blockchain meets big data
+90;93;Undirected;mystiko-blockchain meets big data
+90;92;Undirected;mystiko-blockchain meets big data
+90;91;Undirected;mystiko-blockchain meets big data
+90;88;Undirected;mystiko-blockchain meets big data
+94;95;Undirected;big data implementation levels in organizations: a theoretical proposal
+98;100;Undirected;the challenges of big data governance in healthcare
+98;96;Undirected;the challenges of big data governance in healthcare
+98;99;Undirected;the challenges of big data governance in healthcare
+98;97;Undirected;the challenges of big data governance in healthcare
+99;100;Undirected;the challenges of big data governance in healthcare
+99;96;Undirected;the challenges of big data governance in healthcare
+99;97;Undirected;the challenges of big data governance in healthcare
+101;115;Undirected;big social data mining in a cloud computing fnvironment
+101;103;Undirected;big social data mining in a cloud computing fnvironment
+102;115;Undirected;big social data mining in a cloud computing fnvironment
+102;103;Undirected;big social data mining in a cloud computing fnvironment
+102;101;Undirected;big social data mining in a cloud computing fnvironment
+103;114;Undirected;big data visualisation and visual analytics for music data mining
+103;113;Undirected;big data visualisation and visual analytics for music data mining
+103;112;Undirected;big data visualisation and visual analytics for music data mining
+103;111;Undirected;big data visualisation and visual analytics for music data mining
+103;106;Undirected;scalable vertical mining for big data analytics of frequent itemsets
+104;103;Undirected;scalable vertical mining for big data analytics of frequent itemsets
+104;106;Undirected;scalable vertical mining for big data analytics of frequent itemsets
+104;105;Undirected;scalable vertical mining for big data analytics of frequent itemsets
+105;103;Undirected;scalable vertical mining for big data analytics of frequent itemsets
+105;106;Undirected;scalable vertical mining for big data analytics of frequent itemsets
+105;104;Undirected;scalable vertical mining for big data analytics of frequent itemsets
+107;114;Undirected;big data visualisation and visual analytics for music data mining
+107;103;Undirected;big data visualisation and visual analytics for music data mining
+107;103;Undirected;an innovative framework for supporting cognitive-based big data analytics for frequent pattern mining
+107;106;Undirected;an innovative framework for supporting cognitive-based big data analytics for frequent pattern mining
+108;110;Undirected;an innovative framework for supporting cognitive-based big data analytics for frequent pattern mining
+108;103;Undirected;an innovative framework for supporting cognitive-based big data analytics for frequent pattern mining
+108;106;Undirected;an innovative framework for supporting cognitive-based big data analytics for frequent pattern mining
+109;114;Undirected;big data visualisation and visual analytics for music data mining
+109;103;Undirected;big data visualisation and visual analytics for music data mining
+109;113;Undirected;big data visualisation and visual analytics for music data mining
+109;112;Undirected;big data visualisation and visual analytics for music data mining
+109;111;Undirected;big data visualisation and visual analytics for music data mining
+109;103;Undirected;an innovative framework for supporting cognitive-based big data analytics for frequent pattern mining
+109;106;Undirected;an innovative framework for supporting cognitive-based big data analytics for frequent pattern mining
+110;103;Undirected;an innovative framework for supporting cognitive-based big data analytics for frequent pattern mining
+110;106;Undirected;an innovative framework for supporting cognitive-based big data analytics for frequent pattern mining
+111;113;Undirected;big data visualisation and visual analytics for music data mining
+111;112;Undirected;big data visualisation and visual analytics for music data mining
+112;113;Undirected;big data visualisation and visual analytics for music data mining
+115;103;Undirected;big social data mining in a cloud computing fnvironment
+117;116;Undirected;big data analytics and application for logistics and supply chain management
+117;119;Undirected;big data analytics and application for logistics and supply chain management
+117;118;Undirected;big data analytics and application for logistics and supply chain management
+118;116;Undirected;big data analytics and application for logistics and supply chain management
+118;119;Undirected;big data analytics and application for logistics and supply chain management
+119;116;Undirected;big data analytics and application for logistics and supply chain management
+121;120;Undirected;toward big data analysis to improve enterprise information security
+121;122;Undirected;toward big data analysis to improve enterprise information security
+122;120;Undirected;toward big data analysis to improve enterprise information security
+123;124;Undirected;intellectual property risks and protection mechanisms of big data
+125;127;Undirected;breaching intellectual capital: critical reflections on big data security
+125;126;Undirected;breaching intellectual capital: critical reflections on big data security
+126;127;Undirected;breaching intellectual capital: critical reflections on big data security
+129;128;Undirected;big data implementation for small and medium enterprises
+129;130;Undirected;big data implementation for small and medium enterprises
+130;128;Undirected;big data implementation for small and medium enterprises
+131;134;Undirected;research on security public opinion based on declining value of big data
+131;133;Undirected;research on security public opinion based on declining value of big data
+131;132;Undirected;research on security public opinion based on declining value of big data
+132;134;Undirected;research on security public opinion based on declining value of big data
+132;133;Undirected;research on security public opinion based on declining value of big data
+133;134;Undirected;research on security public opinion based on declining value of big data
+135;136;Undirected;big data application research in the private enterprises improves efficiency
+137;138;Undirected;a comparative study of recent advances in big data for security and privacy
+139;143;Undirected;big data analytics: understanding its capabilities and potential benefits for healthcare organizations
+140;142;Undirected;an integrated big data analytics-enabled transformation model: application to health care
+140;139;Undirected;an integrated big data analytics-enabled transformation model: application to health care
+140;141;Undirected;an integrated big data analytics-enabled transformation model: application to health care
+141;142;Undirected;an integrated big data analytics-enabled transformation model: application to health care
+141;139;Undirected;an integrated big data analytics-enabled transformation model: application to health care
+141;140;Undirected;an integrated big data analytics-enabled transformation model: application to health care
+142;143;Undirected;big data analytics: understanding its capabilities and potential benefits for healthcare organizations
+146;149;Undirected;design and application of big data platform architecture for typical scenarios of power system
+146;148;Undirected;design and application of big data platform architecture for typical scenarios of power system
+146;144;Undirected;design and application of big data platform architecture for typical scenarios of power system
+146;147;Undirected;design and application of big data platform architecture for typical scenarios of power system
+146;145;Undirected;design and application of big data platform architecture for typical scenarios of power system
+147;149;Undirected;design and application of big data platform architecture for typical scenarios of power system
+147;148;Undirected;design and application of big data platform architecture for typical scenarios of power system
+147;144;Undirected;design and application of big data platform architecture for typical scenarios of power system
+147;145;Undirected;design and application of big data platform architecture for typical scenarios of power system
+150;152;Undirected;big data analytics for healthcare organizations a case study of the iraqi healthcare sector
+151;150;Undirected;big data analytics for healthcare organizations a case study of the iraqi healthcare sector
+151;156;Undirected;big data analytics for healthcare organizations a case study of the iraqi healthcare sector
+151;152;Undirected;big data analytics for healthcare organizations a case study of the iraqi healthcare sector
+152;153;Undirected;big data and learning analytics: a big potential to improve e-learning
+154;155;Undirected;big data and learning analytics: a big potential to improve e-learning
+154;153;Undirected;big data and learning analytics: a big potential to improve e-learning
+156;150;Undirected;big data analytics for healthcare organizations a case study of the iraqi healthcare sector
+156;152;Undirected;big data analytics for healthcare organizations a case study of the iraqi healthcare sector
+158;157;Undirected;role of big data in decision making
+158;159;Undirected;role of big data in decision making
+159;157;Undirected;role of big data in decision making
+160;164;Undirected;research on information security in big data era
+160;163;Undirected;research on information security in big data era
+160;161;Undirected;research on information security in big data era
+162;164;Undirected;research on information security in big data era
+162;163;Undirected;research on information security in big data era
+162;160;Undirected;research on information security in big data era
+162;161;Undirected;research on information security in big data era
+166;169;Undirected;framework of intelligent analysis and mining for power big data
+166;168;Undirected;framework of intelligent analysis and mining for power big data
+166;167;Undirected;framework of intelligent analysis and mining for power big data
+166;165;Undirected;framework of intelligent analysis and mining for power big data
+167;169;Undirected;framework of intelligent analysis and mining for power big data
+167;168;Undirected;framework of intelligent analysis and mining for power big data
+167;165;Undirected;framework of intelligent analysis and mining for power big data
+170;172;Undirected;research on application of healthcare data in big data era
+170;174;Undirected;research on application of healthcare data in big data era
+170;173;Undirected;research on application of healthcare data in big data era
+170;172;Undirected;research on visualization and application of medical big data
+171;170;Undirected;research on visualization and application of medical big data
+171;172;Undirected;research on visualization and application of medical big data
+173;172;Undirected;research on application of healthcare data in big data era
+173;174;Undirected;research on application of healthcare data in big data era
+173;172;Undirected;research on application of big data in medical industry
+173;174;Undirected;research on application of big data in medical industry
+174;172;Undirected;research on application of healthcare data in big data era
+174;172;Undirected;research on application of big data in medical industry
+175;178;Undirected;skill requirements in big data: a content analysis of job advertisements
+175;177;Undirected;skill requirements in big data: a content analysis of job advertisements
+175;176;Undirected;skill requirements in big data: a content analysis of job advertisements
+176;178;Undirected;skill requirements in big data: a content analysis of job advertisements
+176;177;Undirected;skill requirements in big data: a content analysis of job advertisements
+177;178;Undirected;skill requirements in big data: a content analysis of job advertisements
+180;179;Undirected;big data analytics in supply chain management between 2010 and 2016: insights to industries
+180;181;Undirected;big data analytics in supply chain management between 2010 and 2016: insights to industries
+181;179;Undirected;big data analytics in supply chain management between 2010 and 2016: insights to industries
+182;189;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+182;188;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+182;187;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+182;186;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+182;185;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+182;184;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+182;183;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+184;189;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+184;188;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+184;187;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+184;186;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+184;185;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+184;183;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+185;189;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+185;188;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+185;187;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+185;186;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+185;183;Undirected;image pattern recognition in big data: taxonomy and open challenges: survey
+190;191;Undirected;modeling smallclient indexing framework for big data analytics
+190;183;Undirected;modeling smallclient indexing framework for big data analytics
+191;183;Undirected;modeling smallclient indexing framework for big data analytics
+192;194;Undirected;a reference model for big data analytics
+192;193;Undirected;a reference model for big data analytics
+193;194;Undirected;a reference model for big data analytics
+196;195;Undirected;smart grid security evaluation with a big data use case
+196;197;Undirected;smart grid security evaluation with a big data use case
+197;195;Undirected;smart grid security evaluation with a big data use case
+198;199;Undirected;privacy preserving big data publishing
+198;196;Undirected;privacy preserving big data publishing
+199;196;Undirected;privacy preserving big data publishing
+200;203;Undirected;security model for big healthcare data lifecycle
+200;202;Undirected;security model for big healthcare data lifecycle
+200;201;Undirected;security model for big healthcare data lifecycle
+201;203;Undirected;security model for big healthcare data lifecycle
+201;202;Undirected;security model for big healthcare data lifecycle
+202;203;Undirected;security model for big healthcare data lifecycle
+204;206;Undirected;tensor-based big biometric data reduction in the cloud
+204;205;Undirected;tensor-based big biometric data reduction in the cloud
+205;206;Undirected;tensor-based big biometric data reduction in the cloud
+207;209;Undirected;a contextual parsing of big data values to quantity surveyors
+207;208;Undirected;a contextual parsing of big data values to quantity surveyors
+208;209;Undirected;a contextual parsing of big data values to quantity surveyors
+210;213;Undirected;on designing a generic framework for big data-as-a-service
+210;212;Undirected;on designing a generic framework for big data-as-a-service
+210;211;Undirected;on designing a generic framework for big data-as-a-service
+211;213;Undirected;on designing a generic framework for big data-as-a-service
+211;212;Undirected;on designing a generic framework for big data-as-a-service
+212;213;Undirected;on designing a generic framework for big data-as-a-service
+214;218;Undirected;multimedia big data analytics: a survey
+214;217;Undirected;multimedia big data analytics: a survey
+214;216;Undirected;multimedia big data analytics: a survey
+214;215;Undirected;multimedia big data analytics: a survey
+216;218;Undirected;multimedia big data analytics: a survey
+216;217;Undirected;multimedia big data analytics: a survey
+216;215;Undirected;multimedia big data analytics: a survey
+219;220;Undirected;recent trends in distributed online stream processing platform for big data: survey
+221;222;Undirected;an iterative and incremental data preprocessing procedure for improving the risk of big data project
+225;228;Undirected;law and big data conclusions
+225;227;Undirected;law and big data conclusions
+225;223;Undirected;law and big data conclusions
+225;226;Undirected;law and big data conclusions
+225;224;Undirected;law and big data conclusions
+226;228;Undirected;law and big data conclusions
+226;227;Undirected;law and big data conclusions
+226;223;Undirected;law and big data conclusions
+226;224;Undirected;law and big data conclusions
+230;229;Undirected;an extension of the technology acceptance model in the big data analytics system implementation environment
+230;231;Undirected;an extension of the technology acceptance model in the big data analytics system implementation environment
+231;229;Undirected;an extension of the technology acceptance model in the big data analytics system implementation environment
+234;236;Undirected;a data reconstruction method for the big-data analysis
+234;232;Undirected;a data reconstruction method for the big-data analysis
+234;235;Undirected;a data reconstruction method for the big-data analysis
+234;233;Undirected;a data reconstruction method for the big-data analysis
+235;236;Undirected;a data reconstruction method for the big-data analysis
+235;232;Undirected;a data reconstruction method for the big-data analysis
+235;233;Undirected;a data reconstruction method for the big-data analysis
+237;238;Undirected;big data augmentation with data warehouse: a survey
+239;243;Undirected;government geospatial big data service for comprehensive decision-making
+239;242;Undirected;government geospatial big data service for comprehensive decision-making
+239;240;Undirected;government geospatial big data service for comprehensive decision-making
+241;243;Undirected;government geospatial big data service for comprehensive decision-making
+241;242;Undirected;government geospatial big data service for comprehensive decision-making
+241;239;Undirected;government geospatial big data service for comprehensive decision-making
+241;240;Undirected;government geospatial big data service for comprehensive decision-making
+244;246;Undirected;big data information governance by accountants
+244;245;Undirected;big data information governance by accountants
+245;246;Undirected;big data information governance by accountants
+247;251;Undirected;from big data to big information and big knowledge: the case of earth observation data
+247;250;Undirected;from big data to big information and big knowledge: the case of earth observation data
+247;248;Undirected;from big data to big information and big knowledge: the case of earth observation data
+249;251;Undirected;from big data to big information and big knowledge: the case of earth observation data
+249;250;Undirected;from big data to big information and big knowledge: the case of earth observation data
+249;247;Undirected;from big data to big information and big knowledge: the case of earth observation data
+249;248;Undirected;from big data to big information and big knowledge: the case of earth observation data
+252;253;Undirected;design and implementation of massive information management system based on big data
+255;254;Undirected;fine-grained big data security method based on zero trust model
+255;256;Undirected;fine-grained big data security method based on zero trust model
+256;254;Undirected;fine-grained big data security method based on zero trust model
+257;259;Undirected;implementation of big data: a comparative study
+257;258;Undirected;implementation of big data: a comparative study
+258;259;Undirected;implementation of big data: a comparative study
+260;263;Undirected;data-driven smart manufacturing
+260;262;Undirected;data-driven smart manufacturing
+260;261;Undirected;data-driven smart manufacturing
+261;263;Undirected;data-driven smart manufacturing
+261;262;Undirected;data-driven smart manufacturing
+262;263;Undirected;data-driven smart manufacturing
+264;265;Undirected;a survey towards an integration of big data analytics to big insights for value-creation
+266;271;Undirected;a two-stage data processing algorithm to generate random sample partitions for big data analysis
+266;270;Undirected;a two-stage data processing algorithm to generate random sample partitions for big data analysis
+266;269;Undirected;a two-stage data processing algorithm to generate random sample partitions for big data analysis
+266;267;Undirected;a two-stage data processing algorithm to generate random sample partitions for big data analysis
+268;271;Undirected;a two-stage data processing algorithm to generate random sample partitions for big data analysis
+268;270;Undirected;a two-stage data processing algorithm to generate random sample partitions for big data analysis
+268;269;Undirected;a two-stage data processing algorithm to generate random sample partitions for big data analysis
+268;266;Undirected;a two-stage data processing algorithm to generate random sample partitions for big data analysis
+268;267;Undirected;a two-stage data processing algorithm to generate random sample partitions for big data analysis
+272;273;Undirected;official statistics and big data
+274;276;Undirected;forensic investigation through data remnants on hadoop big data storage system
+274;275;Undirected;forensic investigation through data remnants on hadoop big data storage system
+275;276;Undirected;forensic investigation through data remnants on hadoop big data storage system
+277;279;Undirected;performance and energy consumption aspects in migrating big data systems to the cloud
+277;278;Undirected;performance and energy consumption aspects in migrating big data systems to the cloud
+278;279;Undirected;performance and energy consumption aspects in migrating big data systems to the cloud
+280;285;Undirected;engineering big data to small businesses: lessons learned from a case study
+280;284;Undirected;engineering big data to small businesses: lessons learned from a case study
+280;283;Undirected;engineering big data to small businesses: lessons learned from a case study
+280;281;Undirected;engineering big data to small businesses: lessons learned from a case study
+282;285;Undirected;engineering big data to small businesses: lessons learned from a case study
+282;284;Undirected;engineering big data to small businesses: lessons learned from a case study
+282;283;Undirected;engineering big data to small businesses: lessons learned from a case study
+282;280;Undirected;engineering big data to small businesses: lessons learned from a case study
+282;281;Undirected;engineering big data to small businesses: lessons learned from a case study
+286;287;Undirected;a study on big data cluster in smart factory using raspberry-pi
+290;293;Undirected;designing an organizational readiness framework for big data adoption
+290;288;Undirected;designing an organizational readiness framework for big data adoption
+290;292;Undirected;designing an organizational readiness framework for big data adoption
+290;291;Undirected;designing an organizational readiness framework for big data adoption
+290;289;Undirected;designing an organizational readiness framework for big data adoption
+291;293;Undirected;designing an organizational readiness framework for big data adoption
+291;288;Undirected;designing an organizational readiness framework for big data adoption
+291;292;Undirected;designing an organizational readiness framework for big data adoption
+291;289;Undirected;designing an organizational readiness framework for big data adoption
+294;296;Undirected;representational quality challenges of big data: insights from comparative case studies
+294;297;Undirected;representational quality challenges of big data: insights from comparative case studies
+294;296;Undirected;relating big data and data quality in financial service organizations
+294;295;Undirected;relating big data and data quality in financial service organizations
+295;296;Undirected;relating big data and data quality in financial service organizations
+297;296;Undirected;representational quality challenges of big data: insights from comparative case studies
+298;299;Undirected;big data analytics in medicine and healthcare
+300;301;Undirected;real-time processing of big data streams: lifecycle, tools, tasks, and challenges<bold> </bold>
+303;302;Undirected;big data with ten big characteristics
+303;305;Undirected;big data with ten big characteristics
+303;302;Undirected;big data analytics services for enhancing business intelligence
+303;304;Undirected;big data analytics services for enhancing business intelligence
+304;302;Undirected;big data analytics services for enhancing business intelligence
+305;302;Undirected;big data with ten big characteristics
+306;308;Undirected;testing of big data analytics systems by benchmark
+306;307;Undirected;testing of big data analytics systems by benchmark
+307;308;Undirected;testing of big data analytics systems by benchmark
+309;310;Undirected;big data capability, customer agility, and organization performance: a dynamic capability perspective completed research
+311;313;Undirected;bridging the academic-practice gap through big data research
+311;312;Undirected;bridging the academic-practice gap through big data research
+312;313;Undirected;bridging the academic-practice gap through big data research
+314;315;Undirected;determining big data complexity using hierarchical structure of groups and clusters in decision tree
+318;316;Undirected;big earth data: a comprehensive analysis of visualization analytics issues
+318;320;Undirected;big earth data: a comprehensive analysis of visualization analytics issues
+318;319;Undirected;big earth data: a comprehensive analysis of visualization analytics issues
+318;317;Undirected;big earth data: a comprehensive analysis of visualization analytics issues
+319;316;Undirected;big earth data: a comprehensive analysis of visualization analytics issues
+319;320;Undirected;big earth data: a comprehensive analysis of visualization analytics issues
+319;317;Undirected;big earth data: a comprehensive analysis of visualization analytics issues
+323;329;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+323;328;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+323;321;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+323;327;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+323;326;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+323;325;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+323;324;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+323;322;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+324;329;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+324;328;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+324;321;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+324;327;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+324;326;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+324;325;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+324;322;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+325;329;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+325;328;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+325;321;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+325;327;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+325;326;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+325;322;Undirected;data quality assessment for on-line monitoring and measuring system of power quality based on big data and data provenance theory
+330;332;Undirected;research on intelligent decision platform and key technologies based on logistics big data
+330;331;Undirected;research on intelligent decision platform and key technologies based on logistics big data
+331;332;Undirected;research on intelligent decision platform and key technologies based on logistics big data
+333;334;Undirected;an analysis of data mining and application in the era of big data
+335;336;Undirected;big data infrastructure, data visualisation and challenges
+337;338;Undirected;security of big data: a review
+339;341;Undirected;big data for internet of things: a survey
+339;340;Undirected;big data for internet of things: a survey
+340;341;Undirected;big data for internet of things: a survey
+340;339;Undirected;big data for internet of things: a survey
+341;342;Undirected;quality management in big data
+343;347;Undirected;big data assurance evaluation: an sla-based approach
+343;346;Undirected;big data assurance evaluation: an sla-based approach
+343;345;Undirected;big data assurance evaluation: an sla-based approach
+343;344;Undirected;big data assurance evaluation: an sla-based approach
+345;347;Undirected;big data assurance evaluation: an sla-based approach
+345;346;Undirected;big data assurance evaluation: an sla-based approach
+345;344;Undirected;big data assurance evaluation: an sla-based approach
+348;349;Undirected;biomedical informatics from big data perspective: expectations and challenges
+351;350;Undirected;multi-source heterogeneous data fusion
+351;353;Undirected;multi-source heterogeneous data fusion
+351;352;Undirected;multi-source heterogeneous data fusion
+352;350;Undirected;multi-source heterogeneous data fusion
+352;353;Undirected;multi-source heterogeneous data fusion
+353;350;Undirected;multi-source heterogeneous data fusion
+354;356;Undirected;big data and open government data in public services
+354;355;Undirected;big data and open government data in public services
+355;356;Undirected;big data and open government data in public services
+357;358;Undirected;understanding adoption of big data analytics in china: from organizational users perspective
+359;362;Undirected;census big data analytics use: international cross case analysis
+359;361;Undirected;census big data analytics use: international cross case analysis
+359;360;Undirected;census big data analytics use: international cross case analysis
+360;362;Undirected;census big data analytics use: international cross case analysis
+360;361;Undirected;census big data analytics use: international cross case analysis
+361;362;Undirected;census big data analytics use: international cross case analysis
+364;363;Undirected;thirsty in an ocean of data? pitfalls and practical strategies when partnering with industry on big data supply chain research
+364;366;Undirected;thirsty in an ocean of data? pitfalls and practical strategies when partnering with industry on big data supply chain research
+364;365;Undirected;thirsty in an ocean of data? pitfalls and practical strategies when partnering with industry on big data supply chain research
+365;363;Undirected;thirsty in an ocean of data? pitfalls and practical strategies when partnering with industry on big data supply chain research
+365;366;Undirected;thirsty in an ocean of data? pitfalls and practical strategies when partnering with industry on big data supply chain research
+366;363;Undirected;thirsty in an ocean of data? pitfalls and practical strategies when partnering with industry on big data supply chain research
+369;372;Undirected;the advances and challenges of deep learning application in biological big data processing
+369;371;Undirected;the advances and challenges of deep learning application in biological big data processing
+369;367;Undirected;the advances and challenges of deep learning application in biological big data processing
+369;370;Undirected;the advances and challenges of deep learning application in biological big data processing
+369;368;Undirected;the advances and challenges of deep learning application in biological big data processing
+370;372;Undirected;the advances and challenges of deep learning application in biological big data processing
+370;371;Undirected;the advances and challenges of deep learning application in biological big data processing
+370;367;Undirected;the advances and challenges of deep learning application in biological big data processing
+370;368;Undirected;the advances and challenges of deep learning application in biological big data processing
+373;374;Undirected;chinese social media and big data: big data, big brother, big profit?
+375;376;Undirected;impact of data analysis on the business administration education reform in teaching style
+377;380;Undirected;application of information systems aimed at big data use in the sphere of state finance management: concept scheme
+377;379;Undirected;application of information systems aimed at big data use in the sphere of state finance management: concept scheme
+377;378;Undirected;application of information systems aimed at big data use in the sphere of state finance management: concept scheme
+378;380;Undirected;application of information systems aimed at big data use in the sphere of state finance management: concept scheme
+378;379;Undirected;application of information systems aimed at big data use in the sphere of state finance management: concept scheme
+379;380;Undirected;application of information systems aimed at big data use in the sphere of state finance management: concept scheme
+381;383;Undirected;rise of big data - issues and challenges
+381;382;Undirected;rise of big data - issues and challenges
+382;383;Undirected;rise of big data - issues and challenges
+384;385;Undirected;research on distribution network operation and control technology based on big data analysis
+386;388;Undirected;are ndn congestion control solutions compatible with big data traffic?
+386;387;Undirected;are ndn congestion control solutions compatible with big data traffic?
+387;388;Undirected;are ndn congestion control solutions compatible with big data traffic?
+389;391;Undirected;moving from heterogeneous data sources to big data: interoperability and integration issues
+389;390;Undirected;moving from heterogeneous data sources to big data: interoperability and integration issues
+390;391;Undirected;moving from heterogeneous data sources to big data: interoperability and integration issues
+392;393;Undirected;analysis of power user behavior based on big data technology: a review
+396;394;Undirected;an experimental survey on big data frameworks
+396;398;Undirected;an experimental survey on big data frameworks
+396;397;Undirected;an experimental survey on big data frameworks
+396;395;Undirected;an experimental survey on big data frameworks
+397;394;Undirected;an experimental survey on big data frameworks
+397;398;Undirected;an experimental survey on big data frameworks
+397;395;Undirected;an experimental survey on big data frameworks
+399;404;Undirected;construction and management of computer professional education laboratory in the context of big data
+399;403;Undirected;construction and management of computer professional education laboratory in the context of big data
+399;402;Undirected;construction and management of computer professional education laboratory in the context of big data
+399;400;Undirected;construction and management of computer professional education laboratory in the context of big data
+401;404;Undirected;construction and management of computer professional education laboratory in the context of big data
+401;403;Undirected;construction and management of computer professional education laboratory in the context of big data
+401;402;Undirected;construction and management of computer professional education laboratory in the context of big data
+401;399;Undirected;construction and management of computer professional education laboratory in the context of big data
+401;400;Undirected;construction and management of computer professional education laboratory in the context of big data
+406;405;Undirected;big data and data quality dimensions
+406;408;Undirected;big data and data quality dimensions
+406;407;Undirected;big data and data quality dimensions
+407;405;Undirected;big data and data quality dimensions
+407;408;Undirected;big data and data quality dimensions
+408;405;Undirected;big data and data quality dimensions
+409;411;Undirected;research on clothing and accouterment security based on big data
+409;410;Undirected;research on clothing and accouterment security based on big data
+410;411;Undirected;research on clothing and accouterment security based on big data
+413;412;Undirected;on the usability of big (social) data
+413;415;Undirected;on the usability of big (social) data
+413;414;Undirected;on the usability of big (social) data
+414;412;Undirected;on the usability of big (social) data
+414;415;Undirected;on the usability of big (social) data
+415;412;Undirected;on the usability of big (social) data
+416;417;Undirected;analytical techniques for decision making on information security for big data breaches
+418;421;Undirected;a survey of multimedia big data
+418;420;Undirected;a survey of multimedia big data
+418;419;Undirected;a survey of multimedia big data
+419;421;Undirected;a survey of multimedia big data
+419;420;Undirected;a survey of multimedia big data
+420;421;Undirected;a survey of multimedia big data
+423;426;Undirected;derecho y big data
+423;425;Undirected;derecho y big data
+423;424;Undirected;derecho y big data
+423;422;Undirected;derecho y big data
+424;426;Undirected;derecho y big data
+424;425;Undirected;derecho y big data
+424;422;Undirected;derecho y big data
+427;429;Undirected;impacts on statistics education in big data era
+427;428;Undirected;impacts on statistics education in big data era
+428;429;Undirected;impacts on statistics education in big data era
+430;431;Undirected;design concerns for industrial big data system in the smart factory domain. from product lifecycle view
+432;435;Undirected;a review of big data security and privacy protection technology
+433;435;Undirected;a review of big data security and privacy protection technology
+433;432;Undirected;a review of big data security and privacy protection technology
+433;434;Undirected;a review of big data security and privacy protection technology
+434;435;Undirected;a review of big data security and privacy protection technology
+434;432;Undirected;a review of big data security and privacy protection technology
+436;437;Undirected;emerging data governance issues in big data applications for food safety
+438;440;Undirected;challenges and techniques in big data security and privacy: a review
+438;439;Undirected;challenges and techniques in big data security and privacy: a review
+439;440;Undirected;challenges and techniques in big data security and privacy: a review
+442;441;Undirected;considerations of the paradigms of urban design teaching application about big data
+442;444;Undirected;considerations of the paradigms of urban design teaching application about big data
+442;443;Undirected;considerations of the paradigms of urban design teaching application about big data
+443;441;Undirected;considerations of the paradigms of urban design teaching application about big data
+443;444;Undirected;considerations of the paradigms of urban design teaching application about big data
+444;441;Undirected;considerations of the paradigms of urban design teaching application about big data
+445;447;Undirected;big data methods: leveraging modern data analytic techniques to build organizational science
+445;446;Undirected;big data methods: leveraging modern data analytic techniques to build organizational science
+446;447;Undirected;big data methods: leveraging modern data analytic techniques to build organizational science
+448;451;Undirected;practitioners understanding of big data and its applications in supply chain management
+448;450;Undirected;practitioners understanding of big data and its applications in supply chain management
+448;449;Undirected;practitioners understanding of big data and its applications in supply chain management
+449;451;Undirected;practitioners understanding of big data and its applications in supply chain management
+449;450;Undirected;practitioners understanding of big data and its applications in supply chain management
+450;451;Undirected;practitioners understanding of big data and its applications in supply chain management
+452;453;Undirected;big data analytics of network traffic and attacks
+454;455;Undirected;big data and health economics: opportunities, challenges and risks
+456;457;Undirected;analysis of big data cloud computing environment on healthcare organizations by implementing hadoop clusters
+460;458;Undirected;bigdatanetsim: a simulator for data and process placement in large big data platforms
+460;462;Undirected;bigdatanetsim: a simulator for data and process placement in large big data platforms
+460;461;Undirected;bigdatanetsim: a simulator for data and process placement in large big data platforms
+460;459;Undirected;bigdatanetsim: a simulator for data and process placement in large big data platforms
+461;458;Undirected;bigdatanetsim: a simulator for data and process placement in large big data platforms
+461;462;Undirected;bigdatanetsim: a simulator for data and process placement in large big data platforms
+461;459;Undirected;bigdatanetsim: a simulator for data and process placement in large big data platforms
+463;464;Undirected;research on reliability evaluation of big data system
+465;466;Undirected;a survey of big data use in large and medium ecuadorian companies
+467;469;Undirected;big data on cloud for government agencies: benefits, challenges, and solutions
+467;468;Undirected;big data on cloud for government agencies: benefits, challenges, and solutions
+468;469;Undirected;big data on cloud for government agencies: benefits, challenges, and solutions
+470;471;Undirected;research on evaluation of guizhou big data industry development level based on intuitionistic fuzzy analytic hierarchy process
+472;473;Undirected;strategic positioning in big data utilization: towards a conceptual framework
+475;474;Undirected;ontology learning based on word embeddings for text big data extraction
+475;476;Undirected;ontology learning based on word embeddings for text big data extraction
+476;474;Undirected;ontology learning based on word embeddings for text big data extraction
+477;480;Undirected;big data processing in russian transport industry
+477;479;Undirected;big data processing in russian transport industry
+477;478;Undirected;big data processing in russian transport industry
+478;480;Undirected;big data processing in russian transport industry
+478;479;Undirected;big data processing in russian transport industry
+479;480;Undirected;big data processing in russian transport industry
+482;481;Undirected;social networking big data: opportunities, solutions, and challenges
+482;483;Undirected;social networking big data: opportunities, solutions, and challenges
+483;481;Undirected;social networking big data: opportunities, solutions, and challenges
+484;485;Undirected;the myth of big data: chinese advertising practitioners' perspective
+486;487;Undirected;the rise of big data and land engineering disciplines
+488;490;Undirected;correlation analysis method for ocean monitoring big data in a cloud environment
+488;489;Undirected;correlation analysis method for ocean monitoring big data in a cloud environment
+489;490;Undirected;correlation analysis method for ocean monitoring big data in a cloud environment
+491;492;Undirected;improve decision making towards universities performance through big data analytics
+494;493;Undirected;analytical planning and implementation of big data technology working at enterprise level
+494;496;Undirected;analytical planning and implementation of big data technology working at enterprise level
+494;495;Undirected;analytical planning and implementation of big data technology working at enterprise level
+495;493;Undirected;analytical planning and implementation of big data technology working at enterprise level
+495;496;Undirected;analytical planning and implementation of big data technology working at enterprise level
+496;493;Undirected;analytical planning and implementation of big data technology working at enterprise level
+497;500;Undirected;compression of smart meter big data: a survey
+497;499;Undirected;compression of smart meter big data: a survey
+497;498;Undirected;compression of smart meter big data: a survey
+498;500;Undirected;compression of smart meter big data: a survey
+498;499;Undirected;compression of smart meter big data: a survey
+499;500;Undirected;compression of smart meter big data: a survey
+501;502;Undirected;big data analytics in healthcare
+503;504;Undirected;addressing ethical concerns of big data as a prerequisite for a sustainable big data industry
+505;506;Undirected;dynamic data aggregation approach for sensor-based big data
+507;508;Undirected;integration of cloud computing and big data technology forsmart generation
+509;512;Undirected;big data: more than big data sets
+509;511;Undirected;big data: more than big data sets
+509;510;Undirected;big data: more than big data sets
+510;512;Undirected;big data: more than big data sets
+510;511;Undirected;big data: more than big data sets
+511;512;Undirected;big data: more than big data sets
+513;517;Undirected;a literature review on the key technologies of processing big data
+513;516;Undirected;a literature review on the key technologies of processing big data
+513;515;Undirected;a literature review on the key technologies of processing big data
+513;514;Undirected;a literature review on the key technologies of processing big data
+515;517;Undirected;a literature review on the key technologies of processing big data
+515;516;Undirected;a literature review on the key technologies of processing big data
+515;514;Undirected;a literature review on the key technologies of processing big data
+518;519;Undirected;full view scenario model of big data governance in community safety service
+521;520;Undirected;big data technologies: a survey
+521;523;Undirected;big data technologies: a survey
+521;522;Undirected;big data technologies: a survey
+522;520;Undirected;big data technologies: a survey
+522;523;Undirected;big data technologies: a survey
+523;520;Undirected;big data technologies: a survey
+524;525;Undirected;the analysis of agricultural products consumers' purchase behavior under the background of big data
+527;526;Undirected;opportunities and coping strategies for opening big data majors in colleges and universities
+527;528;Undirected;opportunities and coping strategies for opening big data majors in colleges and universities
+528;526;Undirected;opportunities and coping strategies for opening big data majors in colleges and universities
+530;529;Undirected;big data processing: a graduate course for engineering students
+530;531;Undirected;big data processing: a graduate course for engineering students
+531;529;Undirected;big data processing: a graduate course for engineering students
+532;533;Undirected;privacy preserving techniques for big data: a survey
+534;535;Undirected;contingency management in big data era
+536;538;Undirected;research on the technology of data cleaning in big data
+536;537;Undirected;research on the technology of data cleaning in big data
+537;538;Undirected;research on the technology of data cleaning in big data
+539;540;Undirected;study on feature selection and feature deep learning model for big data
+541;542;Undirected;big data in psychology: a framework for research advancement
+543;545;Undirected;role of big data in make in india
+543;544;Undirected;role of big data in make in india
+544;545;Undirected;role of big data in make in india
+546;548;Undirected;big data analytics in operations management
+546;547;Undirected;big data analytics in operations management
+547;548;Undirected;big data analytics in operations management
+549;550;Undirected;an exploratory study to examine big data application on services and scm
+551;553;Undirected;exploring big data governance frameworks
+552;553;Undirected;exploring big data governance frameworks
+552;551;Undirected;exploring big data governance frameworks
+552;554;Undirected;exploring the potential benefits of big data analytics in providing smart healthcare
+552;553;Undirected;exploring the potential benefits of big data analytics in providing smart healthcare
+555;556;Undirected;a review of big data analytics for customer relationship management
+557;558;Undirected;big data security framework based on encryption
+559;560;Undirected;the neuroscience big data landscape and fair
+561;562;Undirected;application of network big data on user experience application model
+563;564;Undirected;a study of handling missing data methods for big data
+565;566;Undirected;challenges and issues in unstructured big data: a systematic literature review
+567;568;Undirected;a comparative analysis of differential privacy vs other privacy mechanisms for big data
+569;570;Undirected;secured and high performance distributed big data storage in cloud systems
+571;573;Undirected;improving the effectiveness of burst buffers for big data processing in hpc systems with eley
+571;572;Undirected;improving the effectiveness of burst buffers for big data processing in hpc systems with eley
+572;573;Undirected;improving the effectiveness of burst buffers for big data processing in hpc systems with eley
+574;575;Undirected;from big data to information: statistical issues through a case study

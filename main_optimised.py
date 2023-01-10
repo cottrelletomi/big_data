@@ -173,60 +173,67 @@ def girvan_newman(graph):
     return graph
 
 @measure_time
-def draw_graph(graph, min_component_size, max_component_size, path, verbose):
-    components = network_components(graph)
-    print("Number of components: %d"%len(components))
-    i = 0
-    for component in components:
-        component_size = len(component)
-        if (component_size > min_component_size) and (component_size < max_component_size):
-            if verbose:
-                print(">>>>>>>>>> component <<<<<<<<<<")
-                print("Component size: %d"%len(component))
-            sub_graph = {node: graph[node] for node in component if node in graph}
-            sub_graph = girvan_newman(sub_graph)
-            g = nx.Graph()
-            for key, value in sub_graph.items():
-                for v in value:
-                    g.add_edge(key, v[0])
-            nx.draw_circular(g, with_labels = True)
-            plt.savefig('%s%d_graph_%d.png'%(path, len(component), i))
-            if verbose:
-                print("Image name: %d_graph_%d.png"%(len(component), i))
-            plt.clf()
-            i += 1
+def main(save_csv_graph=False, save_csv_community=False, save_img=False):
+    min_component_size = 4
+    max_component_size = 30
+    verbose = False
 
-@measure_time
-def main(test=False, save=False, draw=False, path="ressources/small/*.csv",
-         min_component_size=1, max_component_size=2000, verbose=False):
-    if not(test):
-        files = glob.glob(path)
-        step = 1
-        for file in files:
-            print("Step (%d/%d) : Processing of %s" % (step, len(files), file))
-            graph = build_graph(file)
-            if save:
-                path = file.replace("ressources", "output").replace(".csv", "_")
-                save_graph(graph, path)
-            if draw:
-                path = file.replace("ressources/small/data_", "images/").replace(".csv", "/")
-                draw_graph(graph, min_component_size, max_component_size, path, verbose)
-            step += 1
-    else:
-        graph = {
-            'huang, xiaotao': [('qin, niannian', 'a1'), ('zhang, xiaofang', 'a2')],  # 0
-            'qin, niannian': [('huang, xiaotao', 'a1'), ('wang, fen', 'a3')],  # 1
-            'zhang, xiaofang': [('huang, xiaotao', 'a2'), ('wang, fen', 'a4'), ('wang, yingxu', 'a6')],  # 2
-            'wang, fen': [('qin, niannian', 'a3'), ('zhang, xiaofang', 'a4'), ('peng, jun', 'a5')],  # 3
-            'wang, yingxu': [('zhang, xiaofang', 'a6'), ('peng, jun', 'a7'), ('sun, zhaohao', 'a8')],  # 4
-            'peng, jun': [('wang, fen', 'a5'), ('wang, yingxu', 'a7')],  # 5
-            'sun, zhaohao': [('wang, yingxu', 'a8')],  # 6
-            'fang, wei': [('wen, xue zhi', 'a9'), ('zheng, yu', 'a10')],  # 7
-            'wen, xue zhi': [('fang, wei', 'a9')],  # 8
-            'zheng, yu': [('fang, wei', 'a10')]  # 9
-        }
-        draw_graph(graph, 1, 2000, 'images/test/', True)
+    files = glob.glob("ressources/large/*.csv")
+    step = 1
+    for file in files:
+        print("Step (%d/%d) : Processing of %s" % (step, len(files), file))
+        graph = build_graph(file)
+        dataset_size = "large" if "large" in file else "small"
+        dataset_year = file.split("_")[1].split(".")[0]
 
+        if save_csv_graph:
+            path = f"output/{dataset_size}/csv_graph/data_{dataset_year}_"
+            save_graph(graph, path)
 
-main(test=True)
-#main(draw=True, max_component_size=10)
+        if save_csv_community or save_img:
+            graph_community = {}
+            components = network_components(graph)
+            print(f"Number of components: {len(components)}")
+            i = 0
+            for component in components:
+                component_size = len(component)
+                if (component_size > min_component_size) and (component_size < max_component_size):
+                    if verbose:
+                        print(">>>>>>>>>> component <<<<<<<<<<")
+                        print(f"Component size: {len(component)}")
+                    sub_graph = {node: graph[node] for node in component if node in graph}
+                    sub_graph = girvan_newman(sub_graph)
+                    graph_community.update(sub_graph)
+                    if save_img:
+                        g = nx.Graph()
+                        for key, value in sub_graph.items():
+                            for v in value:
+                                g.add_edge(key, v[0])
+                        nx.draw_circular(g, with_labels=True)
+                        path = f"output/{dataset_size}/img/{dataset_year}/{len(component)}_graph_{i}.png"
+                        plt.savefig(path)
+                        if verbose:
+                            print(f"Image name: {len(component)}_graph_{i}.png")
+                        plt.clf()
+                    i += 1
+            if save_csv_community:
+                path = f"output/{dataset_size}/csv_community/data_{dataset_year}_"
+                save_graph(graph_community, path)
+        step += 1
+
+graph = {
+    'huang, xiaotao': [('qin, niannian', 'a1'), ('zhang, xiaofang', 'a2')],  # 0
+    'qin, niannian': [('huang, xiaotao', 'a1'), ('wang, fen', 'a3')],  # 1
+    'zhang, xiaofang': [('huang, xiaotao', 'a2'), ('wang, fen', 'a4'), ('wang, yingxu', 'a6')],  # 2
+    'wang, fen': [('qin, niannian', 'a3'), ('zhang, xiaofang', 'a4'), ('peng, jun', 'a5')],  # 3
+    'wang, yingxu': [('zhang, xiaofang', 'a6'), ('peng, jun', 'a7'), ('sun, zhaohao', 'a8')],  # 4
+    'peng, jun': [('wang, fen', 'a5'), ('wang, yingxu', 'a7')],  # 5
+    'sun, zhaohao': [('wang, yingxu', 'a8')],  # 6
+    'fang, wei': [('wen, xue zhi', 'a9'), ('zheng, yu', 'a10')],  # 7
+    'wen, xue zhi': [('fang, wei', 'a9')],  # 8
+    'zheng, yu': [('fang, wei', 'a10')]  # 9
+}
+
+# Import files in Gephi : https://www.youtube.com/watch?v=FpOIbhOmGUs
+# If Gephi bug : Just deleted the ~/Library/Application Support/gephi directory and it worked.
+main(True, True, True)

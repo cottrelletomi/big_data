@@ -1,0 +1,1685 @@
+Source;Target;Type;Label
+0;1;Undirected;experimental teaching design and practice on big data course
+0;2;Undirected;experimental teaching design and practice on big data course
+0;3;Undirected;experimental teaching design and practice on big data course
+1;0;Undirected;experimental teaching design and practice on big data course
+1;2;Undirected;experimental teaching design and practice on big data course
+1;3;Undirected;experimental teaching design and practice on big data course
+2;0;Undirected;experimental teaching design and practice on big data course
+2;1;Undirected;experimental teaching design and practice on big data course
+2;3;Undirected;experimental teaching design and practice on big data course
+3;0;Undirected;experimental teaching design and practice on big data course
+3;1;Undirected;experimental teaching design and practice on big data course
+3;2;Undirected;experimental teaching design and practice on big data course
+4;7;Undirected;big data analytics: a cognitive perspectives
+5;6;Undirected;a mathematical foundation of big data
+6;5;Undirected;a mathematical foundation of big data
+7;4;Undirected;big data analytics: a cognitive perspectives
+8;9;Undirected;a survey of big data security and privacy preserving
+8;10;Undirected;a survey of big data security and privacy preserving
+8;11;Undirected;a survey of big data security and privacy preserving
+9;8;Undirected;a survey of big data security and privacy preserving
+9;10;Undirected;a survey of big data security and privacy preserving
+9;11;Undirected;a survey of big data security and privacy preserving
+10;8;Undirected;a survey of big data security and privacy preserving
+10;9;Undirected;a survey of big data security and privacy preserving
+10;11;Undirected;a survey of big data security and privacy preserving
+11;8;Undirected;a survey of big data security and privacy preserving
+11;9;Undirected;a survey of big data security and privacy preserving
+11;10;Undirected;a survey of big data security and privacy preserving
+12;13;Undirected;big data validation case study
+12;14;Undirected;big data validation case study
+13;12;Undirected;big data validation case study
+13;14;Undirected;big data validation case study
+13;59;Undirected;data quality in big data processing: issues, solutions and open problems
+13;60;Undirected;data quality in big data processing: issues, solutions and open problems
+13;61;Undirected;data quality in big data processing: issues, solutions and open problems
+13;59;Undirected;a survey on quality assurance techniques for big data applications
+13;119;Undirected;a survey on quality assurance techniques for big data applications
+13;120;Undirected;a survey on quality assurance techniques for big data applications
+14;12;Undirected;big data validation case study
+14;13;Undirected;big data validation case study
+15;16;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+15;17;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+15;18;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+15;19;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+16;15;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+16;17;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+16;18;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+16;19;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+17;15;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+17;16;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+17;18;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+17;19;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+18;15;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+18;16;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+18;17;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+18;19;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+19;15;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+19;16;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+19;17;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+19;18;Undirected;leveraging frontline employees' small data and firm-level big data in frontline management: an absorptive capacity perspective
+21;22;Undirected;big data - concepts, architectures and technologies
+22;21;Undirected;big data - concepts, architectures and technologies
+23;24;Undirected;energy efficient strategy for cloud based big data
+24;23;Undirected;energy efficient strategy for cloud based big data
+25;26;Undirected;big data application framework and its feasibility analysis in library
+25;27;Undirected;big data application framework and its feasibility analysis in library
+25;28;Undirected;big data application framework and its feasibility analysis in library
+26;25;Undirected;big data application framework and its feasibility analysis in library
+26;27;Undirected;big data application framework and its feasibility analysis in library
+26;28;Undirected;big data application framework and its feasibility analysis in library
+27;25;Undirected;big data application framework and its feasibility analysis in library
+27;26;Undirected;big data application framework and its feasibility analysis in library
+27;28;Undirected;big data application framework and its feasibility analysis in library
+28;25;Undirected;big data application framework and its feasibility analysis in library
+28;26;Undirected;big data application framework and its feasibility analysis in library
+28;27;Undirected;big data application framework and its feasibility analysis in library
+29;30;Undirected;querying big data from a database perspective
+29;31;Undirected;querying big data from a database perspective
+29;32;Undirected;querying big data from a database perspective
+29;33;Undirected;querying big data from a database perspective
+29;34;Undirected;querying big data from a database perspective
+29;35;Undirected;querying big data from a database perspective
+30;29;Undirected;querying big data from a database perspective
+30;31;Undirected;querying big data from a database perspective
+30;32;Undirected;querying big data from a database perspective
+30;33;Undirected;querying big data from a database perspective
+30;34;Undirected;querying big data from a database perspective
+30;35;Undirected;querying big data from a database perspective
+31;29;Undirected;querying big data from a database perspective
+31;30;Undirected;querying big data from a database perspective
+31;32;Undirected;querying big data from a database perspective
+31;33;Undirected;querying big data from a database perspective
+31;34;Undirected;querying big data from a database perspective
+31;35;Undirected;querying big data from a database perspective
+32;29;Undirected;querying big data from a database perspective
+32;30;Undirected;querying big data from a database perspective
+32;31;Undirected;querying big data from a database perspective
+32;33;Undirected;querying big data from a database perspective
+32;34;Undirected;querying big data from a database perspective
+32;35;Undirected;querying big data from a database perspective
+33;29;Undirected;querying big data from a database perspective
+33;30;Undirected;querying big data from a database perspective
+33;31;Undirected;querying big data from a database perspective
+33;32;Undirected;querying big data from a database perspective
+33;34;Undirected;querying big data from a database perspective
+33;35;Undirected;querying big data from a database perspective
+34;29;Undirected;querying big data from a database perspective
+34;30;Undirected;querying big data from a database perspective
+34;31;Undirected;querying big data from a database perspective
+34;32;Undirected;querying big data from a database perspective
+34;33;Undirected;querying big data from a database perspective
+34;35;Undirected;querying big data from a database perspective
+35;29;Undirected;querying big data from a database perspective
+35;30;Undirected;querying big data from a database perspective
+35;31;Undirected;querying big data from a database perspective
+35;32;Undirected;querying big data from a database perspective
+35;33;Undirected;querying big data from a database perspective
+35;34;Undirected;querying big data from a database perspective
+36;37;Undirected;health diagnosis robot based on healthcare big data and fuzzy matching
+36;38;Undirected;health diagnosis robot based on healthcare big data and fuzzy matching
+37;36;Undirected;health diagnosis robot based on healthcare big data and fuzzy matching
+37;38;Undirected;health diagnosis robot based on healthcare big data and fuzzy matching
+38;36;Undirected;health diagnosis robot based on healthcare big data and fuzzy matching
+38;37;Undirected;health diagnosis robot based on healthcare big data and fuzzy matching
+39;40;Undirected;study of big data analysis procedures
+39;41;Undirected;study of big data analysis procedures
+40;39;Undirected;study of big data analysis procedures
+40;41;Undirected;study of big data analysis procedures
+41;39;Undirected;study of big data analysis procedures
+41;40;Undirected;study of big data analysis procedures
+42;43;Undirected;a glossary for big data in population and public health: discussion and commentary on terminology and research methods
+42;44;Undirected;a glossary for big data in population and public health: discussion and commentary on terminology and research methods
+43;42;Undirected;a glossary for big data in population and public health: discussion and commentary on terminology and research methods
+43;44;Undirected;a glossary for big data in population and public health: discussion and commentary on terminology and research methods
+44;42;Undirected;a glossary for big data in population and public health: discussion and commentary on terminology and research methods
+44;43;Undirected;a glossary for big data in population and public health: discussion and commentary on terminology and research methods
+45;46;Undirected;big data in building energy efficiency: understanding of big data and main challenges
+46;45;Undirected;big data in building energy efficiency: understanding of big data and main challenges
+47;48;Undirected;research on big data technology applied in smart grid
+47;49;Undirected;research on big data technology applied in smart grid
+47;50;Undirected;research on big data technology applied in smart grid
+47;51;Undirected;research on big data technology applied in smart grid
+47;52;Undirected;research on big data technology applied in smart grid
+48;47;Undirected;research on big data technology applied in smart grid
+48;49;Undirected;research on big data technology applied in smart grid
+48;50;Undirected;research on big data technology applied in smart grid
+48;51;Undirected;research on big data technology applied in smart grid
+48;52;Undirected;research on big data technology applied in smart grid
+49;47;Undirected;research on big data technology applied in smart grid
+49;48;Undirected;research on big data technology applied in smart grid
+49;50;Undirected;research on big data technology applied in smart grid
+49;51;Undirected;research on big data technology applied in smart grid
+49;52;Undirected;research on big data technology applied in smart grid
+50;47;Undirected;research on big data technology applied in smart grid
+50;48;Undirected;research on big data technology applied in smart grid
+50;49;Undirected;research on big data technology applied in smart grid
+50;51;Undirected;research on big data technology applied in smart grid
+50;52;Undirected;research on big data technology applied in smart grid
+51;47;Undirected;research on big data technology applied in smart grid
+51;48;Undirected;research on big data technology applied in smart grid
+51;49;Undirected;research on big data technology applied in smart grid
+51;50;Undirected;research on big data technology applied in smart grid
+51;52;Undirected;research on big data technology applied in smart grid
+52;47;Undirected;research on big data technology applied in smart grid
+52;48;Undirected;research on big data technology applied in smart grid
+52;49;Undirected;research on big data technology applied in smart grid
+52;50;Undirected;research on big data technology applied in smart grid
+52;51;Undirected;research on big data technology applied in smart grid
+54;55;Undirected;big data from smart grids
+54;56;Undirected;big data from smart grids
+55;54;Undirected;big data from smart grids
+55;56;Undirected;big data from smart grids
+56;54;Undirected;big data from smart grids
+56;55;Undirected;big data from smart grids
+59;60;Undirected;data quality in big data processing: issues, solutions and open problems
+59;13;Undirected;data quality in big data processing: issues, solutions and open problems
+59;61;Undirected;data quality in big data processing: issues, solutions and open problems
+59;119;Undirected;a survey on quality assurance techniques for big data applications
+59;120;Undirected;a survey on quality assurance techniques for big data applications
+59;13;Undirected;a survey on quality assurance techniques for big data applications
+60;59;Undirected;data quality in big data processing: issues, solutions and open problems
+60;13;Undirected;data quality in big data processing: issues, solutions and open problems
+60;61;Undirected;data quality in big data processing: issues, solutions and open problems
+61;59;Undirected;data quality in big data processing: issues, solutions and open problems
+61;60;Undirected;data quality in big data processing: issues, solutions and open problems
+61;13;Undirected;data quality in big data processing: issues, solutions and open problems
+63;64;Undirected;sdn-based architecture for big data network
+63;65;Undirected;sdn-based architecture for big data network
+64;63;Undirected;sdn-based architecture for big data network
+64;65;Undirected;sdn-based architecture for big data network
+65;63;Undirected;sdn-based architecture for big data network
+65;64;Undirected;sdn-based architecture for big data network
+66;67;Undirected;the hadoop technology applies in power big data platform
+66;68;Undirected;the hadoop technology applies in power big data platform
+66;69;Undirected;the hadoop technology applies in power big data platform
+66;70;Undirected;the hadoop technology applies in power big data platform
+66;71;Undirected;the hadoop technology applies in power big data platform
+66;72;Undirected;the hadoop technology applies in power big data platform
+67;66;Undirected;the hadoop technology applies in power big data platform
+67;68;Undirected;the hadoop technology applies in power big data platform
+67;69;Undirected;the hadoop technology applies in power big data platform
+67;70;Undirected;the hadoop technology applies in power big data platform
+67;71;Undirected;the hadoop technology applies in power big data platform
+67;72;Undirected;the hadoop technology applies in power big data platform
+68;66;Undirected;the hadoop technology applies in power big data platform
+68;67;Undirected;the hadoop technology applies in power big data platform
+68;69;Undirected;the hadoop technology applies in power big data platform
+68;70;Undirected;the hadoop technology applies in power big data platform
+68;71;Undirected;the hadoop technology applies in power big data platform
+68;72;Undirected;the hadoop technology applies in power big data platform
+69;66;Undirected;the hadoop technology applies in power big data platform
+69;67;Undirected;the hadoop technology applies in power big data platform
+69;68;Undirected;the hadoop technology applies in power big data platform
+69;70;Undirected;the hadoop technology applies in power big data platform
+69;71;Undirected;the hadoop technology applies in power big data platform
+69;72;Undirected;the hadoop technology applies in power big data platform
+70;66;Undirected;the hadoop technology applies in power big data platform
+70;67;Undirected;the hadoop technology applies in power big data platform
+70;68;Undirected;the hadoop technology applies in power big data platform
+70;69;Undirected;the hadoop technology applies in power big data platform
+70;71;Undirected;the hadoop technology applies in power big data platform
+70;72;Undirected;the hadoop technology applies in power big data platform
+71;66;Undirected;the hadoop technology applies in power big data platform
+71;67;Undirected;the hadoop technology applies in power big data platform
+71;68;Undirected;the hadoop technology applies in power big data platform
+71;69;Undirected;the hadoop technology applies in power big data platform
+71;70;Undirected;the hadoop technology applies in power big data platform
+71;72;Undirected;the hadoop technology applies in power big data platform
+72;66;Undirected;the hadoop technology applies in power big data platform
+72;67;Undirected;the hadoop technology applies in power big data platform
+72;68;Undirected;the hadoop technology applies in power big data platform
+72;69;Undirected;the hadoop technology applies in power big data platform
+72;70;Undirected;the hadoop technology applies in power big data platform
+72;71;Undirected;the hadoop technology applies in power big data platform
+73;74;Undirected;data governance framework for big data implementation with a case of korea
+74;73;Undirected;data governance framework for big data implementation with a case of korea
+75;76;Undirected;the big data ecosystem and its environs
+76;75;Undirected;the big data ecosystem and its environs
+77;78;Undirected;research on intelligent tourism application based on big data
+78;77;Undirected;research on intelligent tourism application based on big data
+78;242;Undirected;overview of tourism data mining in big data environment
+83;84;Undirected;identifying big data dimensions and structure
+84;83;Undirected;identifying big data dimensions and structure
+85;86;Undirected;can big data improve public policy analysis?
+85;87;Undirected;can big data improve public policy analysis?
+86;85;Undirected;can big data improve public policy analysis?
+86;87;Undirected;can big data improve public policy analysis?
+87;85;Undirected;can big data improve public policy analysis?
+87;86;Undirected;can big data improve public policy analysis?
+88;89;Undirected;opportunities and challenges of tv media in the big data era
+88;90;Undirected;opportunities and challenges of tv media in the big data era
+88;91;Undirected;opportunities and challenges of tv media in the big data era
+88;92;Undirected;opportunities and challenges of tv media in the big data era
+89;88;Undirected;opportunities and challenges of tv media in the big data era
+89;90;Undirected;opportunities and challenges of tv media in the big data era
+89;91;Undirected;opportunities and challenges of tv media in the big data era
+89;92;Undirected;opportunities and challenges of tv media in the big data era
+90;88;Undirected;opportunities and challenges of tv media in the big data era
+90;89;Undirected;opportunities and challenges of tv media in the big data era
+90;91;Undirected;opportunities and challenges of tv media in the big data era
+90;92;Undirected;opportunities and challenges of tv media in the big data era
+91;88;Undirected;opportunities and challenges of tv media in the big data era
+91;89;Undirected;opportunities and challenges of tv media in the big data era
+91;90;Undirected;opportunities and challenges of tv media in the big data era
+91;92;Undirected;opportunities and challenges of tv media in the big data era
+92;88;Undirected;opportunities and challenges of tv media in the big data era
+92;89;Undirected;opportunities and challenges of tv media in the big data era
+92;90;Undirected;opportunities and challenges of tv media in the big data era
+92;91;Undirected;opportunities and challenges of tv media in the big data era
+93;94;Undirected;health informatics scientists' perception about big data technology
+93;95;Undirected;health informatics scientists' perception about big data technology
+93;96;Undirected;health informatics scientists' perception about big data technology
+94;93;Undirected;health informatics scientists' perception about big data technology
+94;95;Undirected;health informatics scientists' perception about big data technology
+94;96;Undirected;health informatics scientists' perception about big data technology
+95;93;Undirected;health informatics scientists' perception about big data technology
+95;94;Undirected;health informatics scientists' perception about big data technology
+95;96;Undirected;health informatics scientists' perception about big data technology
+96;93;Undirected;health informatics scientists' perception about big data technology
+96;94;Undirected;health informatics scientists' perception about big data technology
+96;95;Undirected;health informatics scientists' perception about big data technology
+97;98;Undirected;broad big data domain via medical big data
+97;99;Undirected;broad big data domain via medical big data
+97;100;Undirected;broad big data domain via medical big data
+98;97;Undirected;broad big data domain via medical big data
+98;99;Undirected;broad big data domain via medical big data
+98;100;Undirected;broad big data domain via medical big data
+99;97;Undirected;broad big data domain via medical big data
+99;98;Undirected;broad big data domain via medical big data
+99;100;Undirected;broad big data domain via medical big data
+100;97;Undirected;broad big data domain via medical big data
+100;98;Undirected;broad big data domain via medical big data
+100;99;Undirected;broad big data domain via medical big data
+101;102;Undirected;survey on sentiment analysis based stock prediction using big data analytics
+101;103;Undirected;survey on sentiment analysis based stock prediction using big data analytics
+102;101;Undirected;survey on sentiment analysis based stock prediction using big data analytics
+102;103;Undirected;survey on sentiment analysis based stock prediction using big data analytics
+103;101;Undirected;survey on sentiment analysis based stock prediction using big data analytics
+103;102;Undirected;survey on sentiment analysis based stock prediction using big data analytics
+104;105;Undirected;on influence, opportunities and challenges of big data to government statistics
+104;106;Undirected;on influence, opportunities and challenges of big data to government statistics
+104;107;Undirected;on influence, opportunities and challenges of big data to government statistics
+105;104;Undirected;on influence, opportunities and challenges of big data to government statistics
+105;106;Undirected;on influence, opportunities and challenges of big data to government statistics
+105;107;Undirected;on influence, opportunities and challenges of big data to government statistics
+106;104;Undirected;on influence, opportunities and challenges of big data to government statistics
+106;105;Undirected;on influence, opportunities and challenges of big data to government statistics
+106;107;Undirected;on influence, opportunities and challenges of big data to government statistics
+107;104;Undirected;on influence, opportunities and challenges of big data to government statistics
+107;105;Undirected;on influence, opportunities and challenges of big data to government statistics
+107;106;Undirected;on influence, opportunities and challenges of big data to government statistics
+108;109;Undirected;medical big data web service management platform
+108;110;Undirected;medical big data web service management platform
+109;108;Undirected;medical big data web service management platform
+109;110;Undirected;medical big data web service management platform
+109;198;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+109;199;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+109;200;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+109;201;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+109;202;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+109;203;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+109;204;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+110;108;Undirected;medical big data web service management platform
+110;109;Undirected;medical big data web service management platform
+111;112;Undirected;big data analytics: a preliminary study of open source platforms
+111;113;Undirected;big data analytics: a preliminary study of open source platforms
+112;111;Undirected;big data analytics: a preliminary study of open source platforms
+112;113;Undirected;big data analytics: a preliminary study of open source platforms
+113;111;Undirected;big data analytics: a preliminary study of open source platforms
+113;112;Undirected;big data analytics: a preliminary study of open source platforms
+117;118;Undirected;big data acquisition and analysis of retail industry and its impact on consumer behavior
+118;117;Undirected;big data acquisition and analysis of retail industry and its impact on consumer behavior
+119;59;Undirected;a survey on quality assurance techniques for big data applications
+119;120;Undirected;a survey on quality assurance techniques for big data applications
+119;13;Undirected;a survey on quality assurance techniques for big data applications
+120;59;Undirected;a survey on quality assurance techniques for big data applications
+120;119;Undirected;a survey on quality assurance techniques for big data applications
+120;13;Undirected;a survey on quality assurance techniques for big data applications
+121;122;Undirected;big data processing in cloud computing environments
+121;123;Undirected;big data processing in cloud computing environments
+121;124;Undirected;big data processing in cloud computing environments
+122;121;Undirected;big data processing in cloud computing environments
+122;123;Undirected;big data processing in cloud computing environments
+122;124;Undirected;big data processing in cloud computing environments
+123;121;Undirected;big data processing in cloud computing environments
+123;122;Undirected;big data processing in cloud computing environments
+123;124;Undirected;big data processing in cloud computing environments
+124;121;Undirected;big data processing in cloud computing environments
+124;122;Undirected;big data processing in cloud computing environments
+124;123;Undirected;big data processing in cloud computing environments
+125;126;Undirected;fast matrix multiplication with big sparse data
+126;125;Undirected;fast matrix multiplication with big sparse data
+127;128;Undirected;a survey on challenges in integrating big data
+128;127;Undirected;a survey on challenges in integrating big data
+129;130;Undirected;opportunities for and pitfalls of using big data in advertising research
+130;129;Undirected;opportunities for and pitfalls of using big data in advertising research
+131;132;Undirected;opportunity and challenges for migrating big data analytics in cloud
+132;131;Undirected;opportunity and challenges for migrating big data analytics in cloud
+133;134;Undirected;does big data mean big knowledge? km perspectives on big data and analytics
+134;133;Undirected;does big data mean big knowledge? km perspectives on big data and analytics
+135;136;Undirected;a survey of big data architectures and machine learning algorithms in healthcare
+136;135;Undirected;a survey of big data architectures and machine learning algorithms in healthcare
+138;139;Undirected;analysis of big-data based data mining engine
+139;138;Undirected;analysis of big-data based data mining engine
+140;141;Undirected;big-bio: - big data hadoop-based analytic cluster framework for bioinformatics
+140;142;Undirected;big-bio: - big data hadoop-based analytic cluster framework for bioinformatics
+141;140;Undirected;big-bio: - big data hadoop-based analytic cluster framework for bioinformatics
+141;142;Undirected;big-bio: - big data hadoop-based analytic cluster framework for bioinformatics
+142;140;Undirected;big-bio: - big data hadoop-based analytic cluster framework for bioinformatics
+142;141;Undirected;big-bio: - big data hadoop-based analytic cluster framework for bioinformatics
+143;144;Undirected;what do we know about the big data researches? a systematic review from 2011 to 2017
+143;145;Undirected;what do we know about the big data researches? a systematic review from 2011 to 2017
+144;143;Undirected;what do we know about the big data researches? a systematic review from 2011 to 2017
+144;145;Undirected;what do we know about the big data researches? a systematic review from 2011 to 2017
+145;143;Undirected;what do we know about the big data researches? a systematic review from 2011 to 2017
+145;144;Undirected;what do we know about the big data researches? a systematic review from 2011 to 2017
+146;147;Undirected;application and challenges of big data in quality monitoring of highway engineering
+147;146;Undirected;application and challenges of big data in quality monitoring of highway engineering
+148;149;Undirected;towards a big data requirements engineering artefact model in the context of big data software development projects
+149;148;Undirected;towards a big data requirements engineering artefact model in the context of big data software development projects
+151;152;Undirected;svm-based clinical decision support algorithm under medical big data architecture
+151;153;Undirected;svm-based clinical decision support algorithm under medical big data architecture
+152;151;Undirected;svm-based clinical decision support algorithm under medical big data architecture
+152;153;Undirected;svm-based clinical decision support algorithm under medical big data architecture
+153;151;Undirected;svm-based clinical decision support algorithm under medical big data architecture
+153;152;Undirected;svm-based clinical decision support algorithm under medical big data architecture
+155;156;Undirected;the fault tolerance of big data systems
+155;157;Undirected;the fault tolerance of big data systems
+155;158;Undirected;the fault tolerance of big data systems
+156;155;Undirected;the fault tolerance of big data systems
+156;157;Undirected;the fault tolerance of big data systems
+156;158;Undirected;the fault tolerance of big data systems
+157;155;Undirected;the fault tolerance of big data systems
+157;156;Undirected;the fault tolerance of big data systems
+157;158;Undirected;the fault tolerance of big data systems
+158;155;Undirected;the fault tolerance of big data systems
+158;156;Undirected;the fault tolerance of big data systems
+158;157;Undirected;the fault tolerance of big data systems
+161;162;Undirected;cleancloud: cleaning big data on cloud
+161;163;Undirected;cleancloud: cleaning big data on cloud
+161;164;Undirected;cleancloud: cleaning big data on cloud
+161;165;Undirected;cleancloud: cleaning big data on cloud
+162;161;Undirected;cleancloud: cleaning big data on cloud
+162;163;Undirected;cleancloud: cleaning big data on cloud
+162;164;Undirected;cleancloud: cleaning big data on cloud
+162;165;Undirected;cleancloud: cleaning big data on cloud
+163;161;Undirected;cleancloud: cleaning big data on cloud
+163;162;Undirected;cleancloud: cleaning big data on cloud
+163;164;Undirected;cleancloud: cleaning big data on cloud
+163;165;Undirected;cleancloud: cleaning big data on cloud
+164;161;Undirected;cleancloud: cleaning big data on cloud
+164;162;Undirected;cleancloud: cleaning big data on cloud
+164;163;Undirected;cleancloud: cleaning big data on cloud
+164;165;Undirected;cleancloud: cleaning big data on cloud
+165;161;Undirected;cleancloud: cleaning big data on cloud
+165;162;Undirected;cleancloud: cleaning big data on cloud
+165;163;Undirected;cleancloud: cleaning big data on cloud
+165;164;Undirected;cleancloud: cleaning big data on cloud
+166;167;Undirected;a novel method of privacy-preserving based on compressive sensing for big data
+167;166;Undirected;a novel method of privacy-preserving based on compressive sensing for big data
+168;169;Undirected;the concepts of big data applied in personal knowledge management
+168;170;Undirected;the concepts of big data applied in personal knowledge management
+169;168;Undirected;the concepts of big data applied in personal knowledge management
+169;170;Undirected;the concepts of big data applied in personal knowledge management
+170;168;Undirected;the concepts of big data applied in personal knowledge management
+170;169;Undirected;the concepts of big data applied in personal knowledge management
+171;409;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+171;410;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+171;411;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+171;412;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+171;413;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+172;173;Undirected;on the fusion and value discovery of heterogeneous non-conventional big data
+173;172;Undirected;on the fusion and value discovery of heterogeneous non-conventional big data
+175;176;Undirected;big data technology application under belt and road initiative
+176;175;Undirected;big data technology application under belt and road initiative
+177;178;Undirected;big data processing in the cloud - challenges and platforms
+178;177;Undirected;big data processing in the cloud - challenges and platforms
+179;180;Undirected;metasynthesis-based intelligent big data processing paradigm
+179;181;Undirected;metasynthesis-based intelligent big data processing paradigm
+180;179;Undirected;metasynthesis-based intelligent big data processing paradigm
+180;181;Undirected;metasynthesis-based intelligent big data processing paradigm
+181;179;Undirected;metasynthesis-based intelligent big data processing paradigm
+181;180;Undirected;metasynthesis-based intelligent big data processing paradigm
+182;183;Undirected;data mining, big data, data analytics: big data analytics in bioinformatics
+183;182;Undirected;data mining, big data, data analytics: big data analytics in bioinformatics
+184;185;Undirected;analysis of the term 'big data': usage in biomedical publications
+184;186;Undirected;analysis of the term 'big data': usage in biomedical publications
+184;187;Undirected;analysis of the term 'big data': usage in biomedical publications
+185;184;Undirected;analysis of the term 'big data': usage in biomedical publications
+185;186;Undirected;analysis of the term 'big data': usage in biomedical publications
+185;187;Undirected;analysis of the term 'big data': usage in biomedical publications
+186;184;Undirected;analysis of the term 'big data': usage in biomedical publications
+186;185;Undirected;analysis of the term 'big data': usage in biomedical publications
+186;187;Undirected;analysis of the term 'big data': usage in biomedical publications
+187;184;Undirected;analysis of the term 'big data': usage in biomedical publications
+187;185;Undirected;analysis of the term 'big data': usage in biomedical publications
+187;186;Undirected;analysis of the term 'big data': usage in biomedical publications
+188;189;Undirected;toward big data in green city
+188;190;Undirected;toward big data in green city
+188;191;Undirected;toward big data in green city
+188;192;Undirected;toward big data in green city
+188;193;Undirected;toward big data in green city
+189;188;Undirected;toward big data in green city
+189;190;Undirected;toward big data in green city
+189;191;Undirected;toward big data in green city
+189;192;Undirected;toward big data in green city
+189;193;Undirected;toward big data in green city
+190;188;Undirected;toward big data in green city
+190;189;Undirected;toward big data in green city
+190;191;Undirected;toward big data in green city
+190;192;Undirected;toward big data in green city
+190;193;Undirected;toward big data in green city
+191;188;Undirected;toward big data in green city
+191;189;Undirected;toward big data in green city
+191;190;Undirected;toward big data in green city
+191;192;Undirected;toward big data in green city
+191;193;Undirected;toward big data in green city
+192;188;Undirected;toward big data in green city
+192;189;Undirected;toward big data in green city
+192;190;Undirected;toward big data in green city
+192;191;Undirected;toward big data in green city
+192;193;Undirected;toward big data in green city
+193;188;Undirected;toward big data in green city
+193;189;Undirected;toward big data in green city
+193;190;Undirected;toward big data in green city
+193;191;Undirected;toward big data in green city
+193;192;Undirected;toward big data in green city
+194;195;Undirected;building an svm classifier for automated selection of big data
+194;196;Undirected;building an svm classifier for automated selection of big data
+194;197;Undirected;building an svm classifier for automated selection of big data
+195;194;Undirected;building an svm classifier for automated selection of big data
+195;196;Undirected;building an svm classifier for automated selection of big data
+195;197;Undirected;building an svm classifier for automated selection of big data
+196;194;Undirected;building an svm classifier for automated selection of big data
+196;195;Undirected;building an svm classifier for automated selection of big data
+196;197;Undirected;building an svm classifier for automated selection of big data
+197;194;Undirected;building an svm classifier for automated selection of big data
+197;195;Undirected;building an svm classifier for automated selection of big data
+197;196;Undirected;building an svm classifier for automated selection of big data
+198;199;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+198;200;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+198;201;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+198;109;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+198;202;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+198;203;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+198;204;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+199;198;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+199;200;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+199;201;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+199;109;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+199;202;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+199;203;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+199;204;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+200;198;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+200;199;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+200;201;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+200;109;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+200;202;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+200;203;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+200;204;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+201;198;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+201;199;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+201;200;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+201;109;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+201;202;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+201;203;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+201;204;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+202;198;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+202;199;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+202;200;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+202;201;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+202;109;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+202;203;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+202;204;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+203;198;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+203;199;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+203;200;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+203;201;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+203;109;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+203;202;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+203;204;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+204;198;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+204;199;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+204;200;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+204;201;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+204;109;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+204;202;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+204;203;Undirected;an interface for biomedical big data processing on the tianhe-2 supercomputer
+205;206;Undirected;review on big data & analytics - concepts, philosophy, process and applications
+206;205;Undirected;review on big data & analytics - concepts, philosophy, process and applications
+208;209;Undirected;a solution for mining big data based on distributed data streams and its classifying algorithms
+209;208;Undirected;a solution for mining big data based on distributed data streams and its classifying algorithms
+210;211;Undirected;intellectual capital in the age of big data: establishing a research agenda
+210;212;Undirected;intellectual capital in the age of big data: establishing a research agenda
+210;213;Undirected;intellectual capital in the age of big data: establishing a research agenda
+211;210;Undirected;intellectual capital in the age of big data: establishing a research agenda
+211;212;Undirected;intellectual capital in the age of big data: establishing a research agenda
+211;213;Undirected;intellectual capital in the age of big data: establishing a research agenda
+212;210;Undirected;intellectual capital in the age of big data: establishing a research agenda
+212;211;Undirected;intellectual capital in the age of big data: establishing a research agenda
+212;213;Undirected;intellectual capital in the age of big data: establishing a research agenda
+213;210;Undirected;intellectual capital in the age of big data: establishing a research agenda
+213;211;Undirected;intellectual capital in the age of big data: establishing a research agenda
+213;212;Undirected;intellectual capital in the age of big data: establishing a research agenda
+214;215;Undirected;a survey on scholarly data: from big data perspective
+214;216;Undirected;a survey on scholarly data: from big data perspective
+214;217;Undirected;a survey on scholarly data: from big data perspective
+215;214;Undirected;a survey on scholarly data: from big data perspective
+215;216;Undirected;a survey on scholarly data: from big data perspective
+215;217;Undirected;a survey on scholarly data: from big data perspective
+216;214;Undirected;a survey on scholarly data: from big data perspective
+216;215;Undirected;a survey on scholarly data: from big data perspective
+216;217;Undirected;a survey on scholarly data: from big data perspective
+217;214;Undirected;a survey on scholarly data: from big data perspective
+217;215;Undirected;a survey on scholarly data: from big data perspective
+217;216;Undirected;a survey on scholarly data: from big data perspective
+218;219;Undirected;application of big data in online education in china
+218;220;Undirected;application of big data in online education in china
+219;218;Undirected;application of big data in online education in china
+219;220;Undirected;application of big data in online education in china
+220;218;Undirected;application of big data in online education in china
+220;219;Undirected;application of big data in online education in china
+221;222;Undirected;experimental analysis on big data in iot-based architecture
+221;223;Undirected;experimental analysis on big data in iot-based architecture
+221;224;Undirected;experimental analysis on big data in iot-based architecture
+222;221;Undirected;experimental analysis on big data in iot-based architecture
+222;223;Undirected;experimental analysis on big data in iot-based architecture
+222;224;Undirected;experimental analysis on big data in iot-based architecture
+223;221;Undirected;experimental analysis on big data in iot-based architecture
+223;222;Undirected;experimental analysis on big data in iot-based architecture
+223;224;Undirected;experimental analysis on big data in iot-based architecture
+224;221;Undirected;experimental analysis on big data in iot-based architecture
+224;222;Undirected;experimental analysis on big data in iot-based architecture
+224;223;Undirected;experimental analysis on big data in iot-based architecture
+226;227;Undirected;where big data meets 5g?
+227;226;Undirected;where big data meets 5g?
+228;229;Undirected;big data from a business perspective
+229;228;Undirected;big data from a business perspective
+230;231;Undirected;big data visualization: review of techniques and datasets
+230;232;Undirected;big data visualization: review of techniques and datasets
+230;233;Undirected;big data visualization: review of techniques and datasets
+230;234;Undirected;big data visualization: review of techniques and datasets
+230;235;Undirected;big data visualization: review of techniques and datasets
+231;230;Undirected;big data visualization: review of techniques and datasets
+231;232;Undirected;big data visualization: review of techniques and datasets
+231;233;Undirected;big data visualization: review of techniques and datasets
+231;234;Undirected;big data visualization: review of techniques and datasets
+231;235;Undirected;big data visualization: review of techniques and datasets
+232;230;Undirected;big data visualization: review of techniques and datasets
+232;231;Undirected;big data visualization: review of techniques and datasets
+232;233;Undirected;big data visualization: review of techniques and datasets
+232;234;Undirected;big data visualization: review of techniques and datasets
+232;235;Undirected;big data visualization: review of techniques and datasets
+233;230;Undirected;big data visualization: review of techniques and datasets
+233;231;Undirected;big data visualization: review of techniques and datasets
+233;232;Undirected;big data visualization: review of techniques and datasets
+233;234;Undirected;big data visualization: review of techniques and datasets
+233;235;Undirected;big data visualization: review of techniques and datasets
+234;230;Undirected;big data visualization: review of techniques and datasets
+234;231;Undirected;big data visualization: review of techniques and datasets
+234;232;Undirected;big data visualization: review of techniques and datasets
+234;233;Undirected;big data visualization: review of techniques and datasets
+234;235;Undirected;big data visualization: review of techniques and datasets
+235;230;Undirected;big data visualization: review of techniques and datasets
+235;231;Undirected;big data visualization: review of techniques and datasets
+235;232;Undirected;big data visualization: review of techniques and datasets
+235;233;Undirected;big data visualization: review of techniques and datasets
+235;234;Undirected;big data visualization: review of techniques and datasets
+237;238;Undirected;hybrid big data warehouse for on-demand decision needs
+237;239;Undirected;hybrid big data warehouse for on-demand decision needs
+238;237;Undirected;hybrid big data warehouse for on-demand decision needs
+238;239;Undirected;hybrid big data warehouse for on-demand decision needs
+239;237;Undirected;hybrid big data warehouse for on-demand decision needs
+239;238;Undirected;hybrid big data warehouse for on-demand decision needs
+240;241;Undirected;speaking sociologically with big data: symphonic social science and the future for big data research
+241;240;Undirected;speaking sociologically with big data: symphonic social science and the future for big data research
+242;78;Undirected;overview of tourism data mining in big data environment
+243;244;Undirected;a survey on deep learning in big data
+243;245;Undirected;a survey on deep learning in big data
+244;243;Undirected;a survey on deep learning in big data
+244;245;Undirected;a survey on deep learning in big data
+245;243;Undirected;a survey on deep learning in big data
+245;244;Undirected;a survey on deep learning in big data
+246;247;Undirected;survey of machine learning methods for big data applications
+247;246;Undirected;survey of machine learning methods for big data applications
+248;249;Undirected;sampling survey among undergraduates in the age of big data
+249;248;Undirected;sampling survey among undergraduates in the age of big data
+250;251;Undirected;big data in the public sector: uncertainties and readiness
+250;252;Undirected;big data in the public sector: uncertainties and readiness
+250;253;Undirected;big data in the public sector: uncertainties and readiness
+251;250;Undirected;big data in the public sector: uncertainties and readiness
+251;252;Undirected;big data in the public sector: uncertainties and readiness
+251;253;Undirected;big data in the public sector: uncertainties and readiness
+252;250;Undirected;big data in the public sector: uncertainties and readiness
+252;251;Undirected;big data in the public sector: uncertainties and readiness
+252;253;Undirected;big data in the public sector: uncertainties and readiness
+253;250;Undirected;big data in the public sector: uncertainties and readiness
+253;251;Undirected;big data in the public sector: uncertainties and readiness
+253;252;Undirected;big data in the public sector: uncertainties and readiness
+254;255;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+254;256;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+254;257;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+254;258;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+255;254;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+255;256;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+255;257;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+255;258;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+256;254;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+256;255;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+256;257;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+256;258;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+257;254;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+257;255;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+257;256;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+257;258;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+258;254;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+258;255;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+258;256;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+258;257;Undirected;next-generation big data analytics: state of the art, challenges, and future research topics
+261;262;Undirected;a survey of big data analytics in healthcare
+261;263;Undirected;a survey of big data analytics in healthcare
+261;264;Undirected;a survey of big data analytics in healthcare
+261;265;Undirected;a survey of big data analytics in healthcare
+262;261;Undirected;a survey of big data analytics in healthcare
+262;263;Undirected;a survey of big data analytics in healthcare
+262;264;Undirected;a survey of big data analytics in healthcare
+262;265;Undirected;a survey of big data analytics in healthcare
+263;261;Undirected;a survey of big data analytics in healthcare
+263;262;Undirected;a survey of big data analytics in healthcare
+263;264;Undirected;a survey of big data analytics in healthcare
+263;265;Undirected;a survey of big data analytics in healthcare
+264;261;Undirected;a survey of big data analytics in healthcare
+264;262;Undirected;a survey of big data analytics in healthcare
+264;263;Undirected;a survey of big data analytics in healthcare
+264;265;Undirected;a survey of big data analytics in healthcare
+265;261;Undirected;a survey of big data analytics in healthcare
+265;262;Undirected;a survey of big data analytics in healthcare
+265;263;Undirected;a survey of big data analytics in healthcare
+265;264;Undirected;a survey of big data analytics in healthcare
+266;267;Undirected;shipping big data and its application prospects in shipping company
+266;268;Undirected;shipping big data and its application prospects in shipping company
+266;384;Undirected;the value of data mining for surveillance video in big data era
+266;385;Undirected;the value of data mining for surveillance video in big data era
+266;386;Undirected;the value of data mining for surveillance video in big data era
+266;387;Undirected;the value of data mining for surveillance video in big data era
+267;266;Undirected;shipping big data and its application prospects in shipping company
+267;268;Undirected;shipping big data and its application prospects in shipping company
+268;266;Undirected;shipping big data and its application prospects in shipping company
+268;267;Undirected;shipping big data and its application prospects in shipping company
+269;270;Undirected;systematic review of big data analytics in governance
+270;269;Undirected;systematic review of big data analytics in governance
+270;583;Undirected;systematic mapping study of big data mining tools and techniques
+271;272;Undirected;thinking and modeling for big data from the perspective of the i ching
+271;273;Undirected;thinking and modeling for big data from the perspective of the i ching
+271;274;Undirected;thinking and modeling for big data from the perspective of the i ching
+272;271;Undirected;thinking and modeling for big data from the perspective of the i ching
+272;273;Undirected;thinking and modeling for big data from the perspective of the i ching
+272;274;Undirected;thinking and modeling for big data from the perspective of the i ching
+273;271;Undirected;thinking and modeling for big data from the perspective of the i ching
+273;272;Undirected;thinking and modeling for big data from the perspective of the i ching
+273;274;Undirected;thinking and modeling for big data from the perspective of the i ching
+274;271;Undirected;thinking and modeling for big data from the perspective of the i ching
+274;272;Undirected;thinking and modeling for big data from the perspective of the i ching
+274;273;Undirected;thinking and modeling for big data from the perspective of the i ching
+276;277;Undirected;analysis and research on the development and application of big data in foshan
+276;278;Undirected;analysis and research on the development and application of big data in foshan
+276;279;Undirected;analysis and research on the development and application of big data in foshan
+276;280;Undirected;analysis and research on the development and application of big data in foshan
+276;278;Undirected;countermeasures to improve local government governance capability by using big data
+276;280;Undirected;countermeasures to improve local government governance capability by using big data
+276;277;Undirected;countermeasures to improve local government governance capability by using big data
+276;279;Undirected;countermeasures to improve local government governance capability by using big data
+277;276;Undirected;analysis and research on the development and application of big data in foshan
+277;278;Undirected;analysis and research on the development and application of big data in foshan
+277;279;Undirected;analysis and research on the development and application of big data in foshan
+277;280;Undirected;analysis and research on the development and application of big data in foshan
+277;276;Undirected;countermeasures to improve local government governance capability by using big data
+277;278;Undirected;countermeasures to improve local government governance capability by using big data
+277;280;Undirected;countermeasures to improve local government governance capability by using big data
+277;279;Undirected;countermeasures to improve local government governance capability by using big data
+278;276;Undirected;analysis and research on the development and application of big data in foshan
+278;277;Undirected;analysis and research on the development and application of big data in foshan
+278;279;Undirected;analysis and research on the development and application of big data in foshan
+278;280;Undirected;analysis and research on the development and application of big data in foshan
+278;276;Undirected;countermeasures to improve local government governance capability by using big data
+278;280;Undirected;countermeasures to improve local government governance capability by using big data
+278;277;Undirected;countermeasures to improve local government governance capability by using big data
+278;279;Undirected;countermeasures to improve local government governance capability by using big data
+279;276;Undirected;analysis and research on the development and application of big data in foshan
+279;277;Undirected;analysis and research on the development and application of big data in foshan
+279;278;Undirected;analysis and research on the development and application of big data in foshan
+279;280;Undirected;analysis and research on the development and application of big data in foshan
+279;276;Undirected;countermeasures to improve local government governance capability by using big data
+279;278;Undirected;countermeasures to improve local government governance capability by using big data
+279;280;Undirected;countermeasures to improve local government governance capability by using big data
+279;277;Undirected;countermeasures to improve local government governance capability by using big data
+280;276;Undirected;analysis and research on the development and application of big data in foshan
+280;277;Undirected;analysis and research on the development and application of big data in foshan
+280;278;Undirected;analysis and research on the development and application of big data in foshan
+280;279;Undirected;analysis and research on the development and application of big data in foshan
+280;276;Undirected;countermeasures to improve local government governance capability by using big data
+280;278;Undirected;countermeasures to improve local government governance capability by using big data
+280;277;Undirected;countermeasures to improve local government governance capability by using big data
+280;279;Undirected;countermeasures to improve local government governance capability by using big data
+282;283;Undirected;big data and public health results of the working group 1 of the forum future public health, berlin 2016
+282;284;Undirected;big data and public health results of the working group 1 of the forum future public health, berlin 2016
+283;282;Undirected;big data and public health results of the working group 1 of the forum future public health, berlin 2016
+283;284;Undirected;big data and public health results of the working group 1 of the forum future public health, berlin 2016
+284;282;Undirected;big data and public health results of the working group 1 of the forum future public health, berlin 2016
+284;283;Undirected;big data and public health results of the working group 1 of the forum future public health, berlin 2016
+285;286;Undirected;profit maximization auction and data management in big data markets
+285;287;Undirected;profit maximization auction and data management in big data markets
+285;288;Undirected;profit maximization auction and data management in big data markets
+285;289;Undirected;profit maximization auction and data management in big data markets
+286;285;Undirected;profit maximization auction and data management in big data markets
+286;287;Undirected;profit maximization auction and data management in big data markets
+286;288;Undirected;profit maximization auction and data management in big data markets
+286;289;Undirected;profit maximization auction and data management in big data markets
+287;285;Undirected;profit maximization auction and data management in big data markets
+287;286;Undirected;profit maximization auction and data management in big data markets
+287;288;Undirected;profit maximization auction and data management in big data markets
+287;289;Undirected;profit maximization auction and data management in big data markets
+288;285;Undirected;profit maximization auction and data management in big data markets
+288;286;Undirected;profit maximization auction and data management in big data markets
+288;287;Undirected;profit maximization auction and data management in big data markets
+288;289;Undirected;profit maximization auction and data management in big data markets
+289;285;Undirected;profit maximization auction and data management in big data markets
+289;286;Undirected;profit maximization auction and data management in big data markets
+289;287;Undirected;profit maximization auction and data management in big data markets
+289;288;Undirected;profit maximization auction and data management in big data markets
+290;291;Undirected;the basics of big data and security concerns
+290;292;Undirected;the basics of big data and security concerns
+291;290;Undirected;the basics of big data and security concerns
+291;292;Undirected;the basics of big data and security concerns
+292;290;Undirected;the basics of big data and security concerns
+292;291;Undirected;the basics of big data and security concerns
+293;294;Undirected;designing and development of a new consumption model from big data to form data-as-a-product (daap)
+294;293;Undirected;designing and development of a new consumption model from big data to form data-as-a-product (daap)
+297;298;Undirected;analysis of marketing strategy in big data environment
+298;297;Undirected;analysis of marketing strategy in big data environment
+299;300;Undirected;privacy issues in big data
+299;301;Undirected;privacy issues in big data
+299;302;Undirected;privacy issues in big data
+300;299;Undirected;privacy issues in big data
+300;301;Undirected;privacy issues in big data
+300;302;Undirected;privacy issues in big data
+301;299;Undirected;privacy issues in big data
+301;300;Undirected;privacy issues in big data
+301;302;Undirected;privacy issues in big data
+302;299;Undirected;privacy issues in big data
+302;300;Undirected;privacy issues in big data
+302;301;Undirected;privacy issues in big data
+303;304;Undirected;big data anonymization with spark
+304;303;Undirected;big data anonymization with spark
+305;306;Undirected;a study on impacts of big data and their countermeasures on financial accounting
+306;305;Undirected;a study on impacts of big data and their countermeasures on financial accounting
+307;308;Undirected;research on industry data analysis model based on hadoop big data platform
+307;309;Undirected;research on industry data analysis model based on hadoop big data platform
+307;309;Undirected;improved statistical analysis method based on big data technology
+307;308;Undirected;improved statistical analysis method based on big data technology
+308;307;Undirected;research on industry data analysis model based on hadoop big data platform
+308;309;Undirected;research on industry data analysis model based on hadoop big data platform
+308;307;Undirected;improved statistical analysis method based on big data technology
+308;309;Undirected;improved statistical analysis method based on big data technology
+309;307;Undirected;research on industry data analysis model based on hadoop big data platform
+309;308;Undirected;research on industry data analysis model based on hadoop big data platform
+309;307;Undirected;improved statistical analysis method based on big data technology
+309;308;Undirected;improved statistical analysis method based on big data technology
+311;312;Undirected;big data analytics: impacting business in big way
+311;313;Undirected;big data analytics: impacting business in big way
+312;311;Undirected;big data analytics: impacting business in big way
+312;313;Undirected;big data analytics: impacting business in big way
+313;311;Undirected;big data analytics: impacting business in big way
+313;312;Undirected;big data analytics: impacting business in big way
+314;315;Undirected;big data model of security sharing based on blockchain
+314;316;Undirected;big data model of security sharing based on blockchain
+314;317;Undirected;big data model of security sharing based on blockchain
+315;314;Undirected;big data model of security sharing based on blockchain
+315;316;Undirected;big data model of security sharing based on blockchain
+315;317;Undirected;big data model of security sharing based on blockchain
+316;314;Undirected;big data model of security sharing based on blockchain
+316;315;Undirected;big data model of security sharing based on blockchain
+316;317;Undirected;big data model of security sharing based on blockchain
+317;314;Undirected;big data model of security sharing based on blockchain
+317;315;Undirected;big data model of security sharing based on blockchain
+317;316;Undirected;big data model of security sharing based on blockchain
+319;320;Undirected;addressing barriers to big data
+319;321;Undirected;addressing barriers to big data
+320;319;Undirected;addressing barriers to big data
+320;321;Undirected;addressing barriers to big data
+321;319;Undirected;addressing barriers to big data
+321;320;Undirected;addressing barriers to big data
+323;324;Undirected;big data predictive analysis: using r analytical tool
+323;325;Undirected;big data predictive analysis: using r analytical tool
+324;323;Undirected;big data predictive analysis: using r analytical tool
+324;325;Undirected;big data predictive analysis: using r analytical tool
+325;323;Undirected;big data predictive analysis: using r analytical tool
+325;324;Undirected;big data predictive analysis: using r analytical tool
+326;327;Undirected;small departures, big continuities?: norms, values, and routines in the guardian's big data journalism
+327;326;Undirected;small departures, big continuities?: norms, values, and routines in the guardian's big data journalism
+328;329;Undirected;necessity of big data and analytics for good e-governance
+328;330;Undirected;necessity of big data and analytics for good e-governance
+328;331;Undirected;necessity of big data and analytics for good e-governance
+329;328;Undirected;necessity of big data and analytics for good e-governance
+329;330;Undirected;necessity of big data and analytics for good e-governance
+329;331;Undirected;necessity of big data and analytics for good e-governance
+330;328;Undirected;necessity of big data and analytics for good e-governance
+330;329;Undirected;necessity of big data and analytics for good e-governance
+330;331;Undirected;necessity of big data and analytics for good e-governance
+331;328;Undirected;necessity of big data and analytics for good e-governance
+331;329;Undirected;necessity of big data and analytics for good e-governance
+331;330;Undirected;necessity of big data and analytics for good e-governance
+332;333;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+332;334;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+332;335;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+332;336;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+332;337;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+332;338;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+333;332;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+333;334;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+333;335;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+333;336;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+333;337;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+333;338;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+334;332;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+334;333;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+334;335;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+334;336;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+334;337;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+334;338;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+335;332;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+335;333;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+335;334;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+335;336;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+335;337;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+335;338;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+336;332;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+336;333;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+336;334;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+336;335;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+336;337;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+336;338;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+336;542;Undirected;the role of big data analytics in internet of things
+336;338;Undirected;the role of big data analytics in internet of things
+336;543;Undirected;the role of big data analytics in internet of things
+336;544;Undirected;the role of big data analytics in internet of things
+336;545;Undirected;the role of big data analytics in internet of things
+336;546;Undirected;the role of big data analytics in internet of things
+337;332;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+337;333;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+337;334;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+337;335;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+337;336;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+337;338;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+338;332;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+338;333;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+338;334;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+338;335;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+338;336;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+338;337;Undirected;big iot data analytics: architecture, opportunities, and open research challenges
+338;542;Undirected;the role of big data analytics in internet of things
+338;336;Undirected;the role of big data analytics in internet of things
+338;543;Undirected;the role of big data analytics in internet of things
+338;544;Undirected;the role of big data analytics in internet of things
+338;545;Undirected;the role of big data analytics in internet of things
+338;546;Undirected;the role of big data analytics in internet of things
+339;340;Undirected;e-government with big data enabled through smartphone for public services: possibilities and challenges
+340;339;Undirected;e-government with big data enabled through smartphone for public services: possibilities and challenges
+341;342;Undirected;big data in the public sector: lessons for practitioners and scholars
+342;341;Undirected;big data in the public sector: lessons for practitioners and scholars
+343;344;Undirected;recognition and analysis of poor students on college students campus card consumption data based on big data
+343;345;Undirected;recognition and analysis of poor students on college students campus card consumption data based on big data
+344;343;Undirected;recognition and analysis of poor students on college students campus card consumption data based on big data
+344;345;Undirected;recognition and analysis of poor students on college students campus card consumption data based on big data
+345;343;Undirected;recognition and analysis of poor students on college students campus card consumption data based on big data
+345;344;Undirected;recognition and analysis of poor students on college students campus card consumption data based on big data
+346;347;Undirected;a typology of big data capabilities from resources to dynamic capabilities. evidence from a ghanaian health insurance firm.
+346;348;Undirected;a typology of big data capabilities from resources to dynamic capabilities. evidence from a ghanaian health insurance firm.
+347;346;Undirected;a typology of big data capabilities from resources to dynamic capabilities. evidence from a ghanaian health insurance firm.
+347;348;Undirected;a typology of big data capabilities from resources to dynamic capabilities. evidence from a ghanaian health insurance firm.
+348;346;Undirected;a typology of big data capabilities from resources to dynamic capabilities. evidence from a ghanaian health insurance firm.
+348;347;Undirected;a typology of big data capabilities from resources to dynamic capabilities. evidence from a ghanaian health insurance firm.
+350;351;Undirected;big data and corporate reporting: impacts and paradoxes
+351;350;Undirected;big data and corporate reporting: impacts and paradoxes
+353;354;Undirected;big data, big problems: a healthcare perspective
+353;355;Undirected;big data, big problems: a healthcare perspective
+353;356;Undirected;big data, big problems: a healthcare perspective
+353;357;Undirected;big data, big problems: a healthcare perspective
+354;353;Undirected;big data, big problems: a healthcare perspective
+354;355;Undirected;big data, big problems: a healthcare perspective
+354;356;Undirected;big data, big problems: a healthcare perspective
+354;357;Undirected;big data, big problems: a healthcare perspective
+355;353;Undirected;big data, big problems: a healthcare perspective
+355;354;Undirected;big data, big problems: a healthcare perspective
+355;356;Undirected;big data, big problems: a healthcare perspective
+355;357;Undirected;big data, big problems: a healthcare perspective
+356;353;Undirected;big data, big problems: a healthcare perspective
+356;354;Undirected;big data, big problems: a healthcare perspective
+356;355;Undirected;big data, big problems: a healthcare perspective
+356;357;Undirected;big data, big problems: a healthcare perspective
+357;353;Undirected;big data, big problems: a healthcare perspective
+357;354;Undirected;big data, big problems: a healthcare perspective
+357;355;Undirected;big data, big problems: a healthcare perspective
+357;356;Undirected;big data, big problems: a healthcare perspective
+358;359;Undirected;entering the 'big data' era in medicinal chemistry: molecular promiscuity analysis revisited
+359;358;Undirected;entering the 'big data' era in medicinal chemistry: molecular promiscuity analysis revisited
+360;361;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+360;362;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+360;363;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+361;360;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+361;362;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+361;363;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+362;360;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+362;361;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+362;363;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+363;360;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+363;361;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+363;362;Undirected;cognitive big data: survey and review on big data research and its implications. what is really new in big data?
+364;365;Undirected;a survey on various challenges and aspects in handling big data
+365;364;Undirected;a survey on various challenges and aspects in handling big data
+366;367;Undirected;the future of the universities: how to make ready the universities through big data mining and management
+367;366;Undirected;the future of the universities: how to make ready the universities through big data mining and management
+368;369;Undirected;research on big data - a systematic mapping study
+368;370;Undirected;research on big data - a systematic mapping study
+369;368;Undirected;research on big data - a systematic mapping study
+369;370;Undirected;research on big data - a systematic mapping study
+370;368;Undirected;research on big data - a systematic mapping study
+370;369;Undirected;research on big data - a systematic mapping study
+371;372;Undirected;big data and smart (equitable) cities
+372;371;Undirected;big data and smart (equitable) cities
+373;374;Undirected;factors influencing big data decision-making quality
+373;375;Undirected;factors influencing big data decision-making quality
+374;373;Undirected;factors influencing big data decision-making quality
+374;375;Undirected;factors influencing big data decision-making quality
+375;373;Undirected;factors influencing big data decision-making quality
+375;374;Undirected;factors influencing big data decision-making quality
+376;377;Undirected;risk for big data in the cloud
+376;378;Undirected;risk for big data in the cloud
+377;376;Undirected;risk for big data in the cloud
+377;378;Undirected;risk for big data in the cloud
+378;376;Undirected;risk for big data in the cloud
+378;377;Undirected;risk for big data in the cloud
+379;380;Undirected;data mining with big data revolution hybrid
+379;381;Undirected;data mining with big data revolution hybrid
+380;379;Undirected;data mining with big data revolution hybrid
+380;381;Undirected;data mining with big data revolution hybrid
+381;379;Undirected;data mining with big data revolution hybrid
+381;380;Undirected;data mining with big data revolution hybrid
+382;383;Undirected;machine learning for astronomical big data processing
+383;382;Undirected;machine learning for astronomical big data processing
+384;385;Undirected;the value of data mining for surveillance video in big data era
+384;386;Undirected;the value of data mining for surveillance video in big data era
+384;266;Undirected;the value of data mining for surveillance video in big data era
+384;387;Undirected;the value of data mining for surveillance video in big data era
+385;384;Undirected;the value of data mining for surveillance video in big data era
+385;386;Undirected;the value of data mining for surveillance video in big data era
+385;266;Undirected;the value of data mining for surveillance video in big data era
+385;387;Undirected;the value of data mining for surveillance video in big data era
+386;384;Undirected;the value of data mining for surveillance video in big data era
+386;385;Undirected;the value of data mining for surveillance video in big data era
+386;266;Undirected;the value of data mining for surveillance video in big data era
+386;387;Undirected;the value of data mining for surveillance video in big data era
+387;384;Undirected;the value of data mining for surveillance video in big data era
+387;385;Undirected;the value of data mining for surveillance video in big data era
+387;386;Undirected;the value of data mining for surveillance video in big data era
+387;266;Undirected;the value of data mining for surveillance video in big data era
+388;389;Undirected;an rea ontology-based model for mapping big data to accounting information systems elements
+389;388;Undirected;an rea ontology-based model for mapping big data to accounting information systems elements
+391;392;Undirected;reform of teaching mode in universities based on big data
+392;391;Undirected;reform of teaching mode in universities based on big data
+394;395;Undirected;security issues of big data applications served by mobile operators
+394;396;Undirected;security issues of big data applications served by mobile operators
+395;394;Undirected;security issues of big data applications served by mobile operators
+395;396;Undirected;security issues of big data applications served by mobile operators
+396;394;Undirected;security issues of big data applications served by mobile operators
+396;395;Undirected;security issues of big data applications served by mobile operators
+397;398;Undirected;a data science and engineering solution for fast k-means clustering of big data
+397;399;Undirected;a data science and engineering solution for fast k-means clustering of big data
+397;400;Undirected;a data science and engineering solution for fast k-means clustering of big data
+398;397;Undirected;a data science and engineering solution for fast k-means clustering of big data
+398;399;Undirected;a data science and engineering solution for fast k-means clustering of big data
+398;400;Undirected;a data science and engineering solution for fast k-means clustering of big data
+399;397;Undirected;a data science and engineering solution for fast k-means clustering of big data
+399;398;Undirected;a data science and engineering solution for fast k-means clustering of big data
+399;400;Undirected;a data science and engineering solution for fast k-means clustering of big data
+400;397;Undirected;a data science and engineering solution for fast k-means clustering of big data
+400;398;Undirected;a data science and engineering solution for fast k-means clustering of big data
+400;399;Undirected;a data science and engineering solution for fast k-means clustering of big data
+401;402;Undirected;exploring complex and big data
+401;403;Undirected;exploring complex and big data
+402;401;Undirected;exploring complex and big data
+402;403;Undirected;exploring complex and big data
+403;401;Undirected;exploring complex and big data
+403;402;Undirected;exploring complex and big data
+404;405;Undirected;bibliometric analysis on domestic big data governance
+405;404;Undirected;bibliometric analysis on domestic big data governance
+406;407;Undirected;study on the countermeasure of security problems of big data caused by data fragmentation
+406;408;Undirected;study on the countermeasure of security problems of big data caused by data fragmentation
+407;406;Undirected;study on the countermeasure of security problems of big data caused by data fragmentation
+407;408;Undirected;study on the countermeasure of security problems of big data caused by data fragmentation
+408;406;Undirected;study on the countermeasure of security problems of big data caused by data fragmentation
+408;407;Undirected;study on the countermeasure of security problems of big data caused by data fragmentation
+409;171;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+409;410;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+409;411;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+409;412;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+409;413;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+410;171;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+410;409;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+410;411;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+410;412;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+410;413;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+411;171;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+411;409;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+411;410;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+411;412;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+411;413;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+412;171;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+412;409;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+412;410;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+412;411;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+412;413;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+413;171;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+413;409;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+413;410;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+413;411;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+413;412;Undirected;big earth data: a new challenge and opportunity for digital earth's development
+414;415;Undirected;big data and big data technologies
+414;416;Undirected;big data and big data technologies
+415;414;Undirected;big data and big data technologies
+415;416;Undirected;big data and big data technologies
+416;414;Undirected;big data and big data technologies
+416;415;Undirected;big data and big data technologies
+417;418;Undirected;big data and survey research: supplement or substitute?
+418;417;Undirected;big data and survey research: supplement or substitute?
+419;420;Undirected;towards big management
+420;419;Undirected;towards big management
+421;422;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+421;423;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+421;424;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+421;424;Undirected;a goal-oriented big data analytics framework for aligning with business
+421;466;Undirected;a goal-oriented big data analytics framework for aligning with business
+421;467;Undirected;a goal-oriented big data analytics framework for aligning with business
+422;421;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+422;423;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+422;424;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+423;421;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+423;422;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+423;424;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+424;421;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+424;422;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+424;423;Undirected;iris: a goal-oriented big data analytics framework on spark for better business decisions
+424;421;Undirected;a goal-oriented big data analytics framework for aligning with business
+424;466;Undirected;a goal-oriented big data analytics framework for aligning with business
+424;467;Undirected;a goal-oriented big data analytics framework for aligning with business
+425;426;Undirected;is big data for everyone? the challenges of big data adoption in smes
+425;427;Undirected;is big data for everyone? the challenges of big data adoption in smes
+426;425;Undirected;is big data for everyone? the challenges of big data adoption in smes
+426;427;Undirected;is big data for everyone? the challenges of big data adoption in smes
+427;425;Undirected;is big data for everyone? the challenges of big data adoption in smes
+427;426;Undirected;is big data for everyone? the challenges of big data adoption in smes
+428;429;Undirected;research on big data application in intelligent safety supervision
+429;428;Undirected;research on big data application in intelligent safety supervision
+430;431;Undirected;big data technologies and management: what conceptual modeling can do
+431;430;Undirected;big data technologies and management: what conceptual modeling can do
+432;433;Undirected;big data: we're almost at infinity
+432;434;Undirected;big data: we're almost at infinity
+433;432;Undirected;big data: we're almost at infinity
+433;434;Undirected;big data: we're almost at infinity
+434;432;Undirected;big data: we're almost at infinity
+434;433;Undirected;big data: we're almost at infinity
+436;437;Undirected;application of big data in higher education for learning analytics
+436;438;Undirected;application of big data in higher education for learning analytics
+437;436;Undirected;application of big data in higher education for learning analytics
+437;438;Undirected;application of big data in higher education for learning analytics
+438;436;Undirected;application of big data in higher education for learning analytics
+438;437;Undirected;application of big data in higher education for learning analytics
+439;440;Undirected;a research on enterprise crisis management innovation based on big data technology
+439;440;Undirected;a simple analysis of revolution and innovation of marketing mix theory from big data perspective
+440;439;Undirected;a research on enterprise crisis management innovation based on big data technology
+440;439;Undirected;a simple analysis of revolution and innovation of marketing mix theory from big data perspective
+441;442;Undirected;big data layers and analytics: a survey
+442;441;Undirected;big data layers and analytics: a survey
+443;444;Undirected;organizing successfully for big data to transform organizations
+444;443;Undirected;organizing successfully for big data to transform organizations
+445;446;Undirected;challenges of software testing for astronomical big data
+446;445;Undirected;challenges of software testing for astronomical big data
+448;449;Undirected;role of big data in various sectors
+449;448;Undirected;role of big data in various sectors
+451;452;Undirected;characterizing big data software architectures: a systematic mapping study
+451;453;Undirected;characterizing big data software architectures: a systematic mapping study
+452;451;Undirected;characterizing big data software architectures: a systematic mapping study
+452;453;Undirected;characterizing big data software architectures: a systematic mapping study
+453;451;Undirected;characterizing big data software architectures: a systematic mapping study
+453;452;Undirected;characterizing big data software architectures: a systematic mapping study
+454;455;Undirected;security integration in big data life cycle
+454;456;Undirected;security integration in big data life cycle
+455;454;Undirected;security integration in big data life cycle
+455;456;Undirected;security integration in big data life cycle
+456;454;Undirected;security integration in big data life cycle
+456;455;Undirected;security integration in big data life cycle
+457;458;Undirected;big data as a challenge and opportunity in digital forensic investigation
+457;459;Undirected;big data as a challenge and opportunity in digital forensic investigation
+458;457;Undirected;big data as a challenge and opportunity in digital forensic investigation
+458;459;Undirected;big data as a challenge and opportunity in digital forensic investigation
+459;457;Undirected;big data as a challenge and opportunity in digital forensic investigation
+459;458;Undirected;big data as a challenge and opportunity in digital forensic investigation
+460;461;Undirected;measurement metric proposed for big data analytics system
+460;462;Undirected;measurement metric proposed for big data analytics system
+460;463;Undirected;measurement metric proposed for big data analytics system
+460;464;Undirected;measurement metric proposed for big data analytics system
+461;460;Undirected;measurement metric proposed for big data analytics system
+461;462;Undirected;measurement metric proposed for big data analytics system
+461;463;Undirected;measurement metric proposed for big data analytics system
+461;464;Undirected;measurement metric proposed for big data analytics system
+462;460;Undirected;measurement metric proposed for big data analytics system
+462;461;Undirected;measurement metric proposed for big data analytics system
+462;463;Undirected;measurement metric proposed for big data analytics system
+462;464;Undirected;measurement metric proposed for big data analytics system
+463;460;Undirected;measurement metric proposed for big data analytics system
+463;461;Undirected;measurement metric proposed for big data analytics system
+463;462;Undirected;measurement metric proposed for big data analytics system
+463;464;Undirected;measurement metric proposed for big data analytics system
+464;460;Undirected;measurement metric proposed for big data analytics system
+464;461;Undirected;measurement metric proposed for big data analytics system
+464;462;Undirected;measurement metric proposed for big data analytics system
+464;463;Undirected;measurement metric proposed for big data analytics system
+466;421;Undirected;a goal-oriented big data analytics framework for aligning with business
+466;424;Undirected;a goal-oriented big data analytics framework for aligning with business
+466;467;Undirected;a goal-oriented big data analytics framework for aligning with business
+467;421;Undirected;a goal-oriented big data analytics framework for aligning with business
+467;424;Undirected;a goal-oriented big data analytics framework for aligning with business
+467;466;Undirected;a goal-oriented big data analytics framework for aligning with business
+468;469;Undirected;patent abstract analysis on chinese big data
+468;470;Undirected;patent abstract analysis on chinese big data
+468;471;Undirected;patent abstract analysis on chinese big data
+468;472;Undirected;patent abstract analysis on chinese big data
+468;473;Undirected;patent abstract analysis on chinese big data
+469;468;Undirected;patent abstract analysis on chinese big data
+469;470;Undirected;patent abstract analysis on chinese big data
+469;471;Undirected;patent abstract analysis on chinese big data
+469;472;Undirected;patent abstract analysis on chinese big data
+469;473;Undirected;patent abstract analysis on chinese big data
+470;468;Undirected;patent abstract analysis on chinese big data
+470;469;Undirected;patent abstract analysis on chinese big data
+470;471;Undirected;patent abstract analysis on chinese big data
+470;472;Undirected;patent abstract analysis on chinese big data
+470;473;Undirected;patent abstract analysis on chinese big data
+471;468;Undirected;patent abstract analysis on chinese big data
+471;469;Undirected;patent abstract analysis on chinese big data
+471;470;Undirected;patent abstract analysis on chinese big data
+471;472;Undirected;patent abstract analysis on chinese big data
+471;473;Undirected;patent abstract analysis on chinese big data
+472;468;Undirected;patent abstract analysis on chinese big data
+472;469;Undirected;patent abstract analysis on chinese big data
+472;470;Undirected;patent abstract analysis on chinese big data
+472;471;Undirected;patent abstract analysis on chinese big data
+472;473;Undirected;patent abstract analysis on chinese big data
+473;468;Undirected;patent abstract analysis on chinese big data
+473;469;Undirected;patent abstract analysis on chinese big data
+473;470;Undirected;patent abstract analysis on chinese big data
+473;471;Undirected;patent abstract analysis on chinese big data
+473;472;Undirected;patent abstract analysis on chinese big data
+474;475;Undirected;big data in genomics
+474;476;Undirected;big data in genomics
+474;477;Undirected;big data in genomics
+474;478;Undirected;big data in genomics
+475;474;Undirected;big data in genomics
+475;476;Undirected;big data in genomics
+475;477;Undirected;big data in genomics
+475;478;Undirected;big data in genomics
+476;474;Undirected;big data in genomics
+476;475;Undirected;big data in genomics
+476;477;Undirected;big data in genomics
+476;478;Undirected;big data in genomics
+477;474;Undirected;big data in genomics
+477;475;Undirected;big data in genomics
+477;476;Undirected;big data in genomics
+477;478;Undirected;big data in genomics
+478;474;Undirected;big data in genomics
+478;475;Undirected;big data in genomics
+478;476;Undirected;big data in genomics
+478;477;Undirected;big data in genomics
+480;481;Undirected;big data educational portal for small and medium sized enterprises (smes)
+481;480;Undirected;big data educational portal for small and medium sized enterprises (smes)
+483;484;Undirected;a model-driven methodology for big data analytics-as-a-service
+483;485;Undirected;a model-driven methodology for big data analytics-as-a-service
+483;486;Undirected;a model-driven methodology for big data analytics-as-a-service
+483;487;Undirected;a model-driven methodology for big data analytics-as-a-service
+483;488;Undirected;a model-driven methodology for big data analytics-as-a-service
+484;483;Undirected;a model-driven methodology for big data analytics-as-a-service
+484;485;Undirected;a model-driven methodology for big data analytics-as-a-service
+484;486;Undirected;a model-driven methodology for big data analytics-as-a-service
+484;487;Undirected;a model-driven methodology for big data analytics-as-a-service
+484;488;Undirected;a model-driven methodology for big data analytics-as-a-service
+485;483;Undirected;a model-driven methodology for big data analytics-as-a-service
+485;484;Undirected;a model-driven methodology for big data analytics-as-a-service
+485;486;Undirected;a model-driven methodology for big data analytics-as-a-service
+485;487;Undirected;a model-driven methodology for big data analytics-as-a-service
+485;488;Undirected;a model-driven methodology for big data analytics-as-a-service
+486;483;Undirected;a model-driven methodology for big data analytics-as-a-service
+486;484;Undirected;a model-driven methodology for big data analytics-as-a-service
+486;485;Undirected;a model-driven methodology for big data analytics-as-a-service
+486;487;Undirected;a model-driven methodology for big data analytics-as-a-service
+486;488;Undirected;a model-driven methodology for big data analytics-as-a-service
+487;483;Undirected;a model-driven methodology for big data analytics-as-a-service
+487;484;Undirected;a model-driven methodology for big data analytics-as-a-service
+487;485;Undirected;a model-driven methodology for big data analytics-as-a-service
+487;486;Undirected;a model-driven methodology for big data analytics-as-a-service
+487;488;Undirected;a model-driven methodology for big data analytics-as-a-service
+488;483;Undirected;a model-driven methodology for big data analytics-as-a-service
+488;484;Undirected;a model-driven methodology for big data analytics-as-a-service
+488;485;Undirected;a model-driven methodology for big data analytics-as-a-service
+488;486;Undirected;a model-driven methodology for big data analytics-as-a-service
+488;487;Undirected;a model-driven methodology for big data analytics-as-a-service
+489;490;Undirected;approaches and challenges of big data analytics-study of a beginner
+489;491;Undirected;approaches and challenges of big data analytics-study of a beginner
+490;489;Undirected;approaches and challenges of big data analytics-study of a beginner
+490;491;Undirected;approaches and challenges of big data analytics-study of a beginner
+491;489;Undirected;approaches and challenges of big data analytics-study of a beginner
+491;490;Undirected;approaches and challenges of big data analytics-study of a beginner
+493;494;Undirected;agent-based modelling as a foundation for big data
+494;493;Undirected;agent-based modelling as a foundation for big data
+496;497;Undirected;identifying and prioritizing critical factors for promoting the implementation and usage of big data in healthcare
+497;496;Undirected;identifying and prioritizing critical factors for promoting the implementation and usage of big data in healthcare
+498;499;Undirected;big data knowledge in global health education
+498;500;Undirected;big data knowledge in global health education
+498;501;Undirected;big data knowledge in global health education
+499;498;Undirected;big data knowledge in global health education
+499;500;Undirected;big data knowledge in global health education
+499;501;Undirected;big data knowledge in global health education
+500;498;Undirected;big data knowledge in global health education
+500;499;Undirected;big data knowledge in global health education
+500;501;Undirected;big data knowledge in global health education
+501;498;Undirected;big data knowledge in global health education
+501;499;Undirected;big data knowledge in global health education
+501;500;Undirected;big data knowledge in global health education
+502;503;Undirected;big data management in us hospitals benefits and barriers
+502;504;Undirected;big data management in us hospitals benefits and barriers
+502;505;Undirected;big data management in us hospitals benefits and barriers
+502;506;Undirected;big data management in us hospitals benefits and barriers
+503;502;Undirected;big data management in us hospitals benefits and barriers
+503;504;Undirected;big data management in us hospitals benefits and barriers
+503;505;Undirected;big data management in us hospitals benefits and barriers
+503;506;Undirected;big data management in us hospitals benefits and barriers
+504;502;Undirected;big data management in us hospitals benefits and barriers
+504;503;Undirected;big data management in us hospitals benefits and barriers
+504;505;Undirected;big data management in us hospitals benefits and barriers
+504;506;Undirected;big data management in us hospitals benefits and barriers
+505;502;Undirected;big data management in us hospitals benefits and barriers
+505;503;Undirected;big data management in us hospitals benefits and barriers
+505;504;Undirected;big data management in us hospitals benefits and barriers
+505;506;Undirected;big data management in us hospitals benefits and barriers
+506;502;Undirected;big data management in us hospitals benefits and barriers
+506;503;Undirected;big data management in us hospitals benefits and barriers
+506;504;Undirected;big data management in us hospitals benefits and barriers
+506;505;Undirected;big data management in us hospitals benefits and barriers
+507;508;Undirected;research on web based information importance ranking algorithm for marine big data
+507;509;Undirected;research on web based information importance ranking algorithm for marine big data
+507;510;Undirected;research on web based information importance ranking algorithm for marine big data
+508;507;Undirected;research on web based information importance ranking algorithm for marine big data
+508;509;Undirected;research on web based information importance ranking algorithm for marine big data
+508;510;Undirected;research on web based information importance ranking algorithm for marine big data
+509;507;Undirected;research on web based information importance ranking algorithm for marine big data
+509;508;Undirected;research on web based information importance ranking algorithm for marine big data
+509;510;Undirected;research on web based information importance ranking algorithm for marine big data
+510;507;Undirected;research on web based information importance ranking algorithm for marine big data
+510;508;Undirected;research on web based information importance ranking algorithm for marine big data
+510;509;Undirected;research on web based information importance ranking algorithm for marine big data
+511;512;Undirected;simplifying big data analytics systems with a reference architecture
+511;513;Undirected;simplifying big data analytics systems with a reference architecture
+512;511;Undirected;simplifying big data analytics systems with a reference architecture
+512;513;Undirected;simplifying big data analytics systems with a reference architecture
+513;511;Undirected;simplifying big data analytics systems with a reference architecture
+513;512;Undirected;simplifying big data analytics systems with a reference architecture
+514;515;Undirected;a big data architecture for managing oceans of data and maritime applications
+514;516;Undirected;a big data architecture for managing oceans of data and maritime applications
+514;517;Undirected;a big data architecture for managing oceans of data and maritime applications
+515;514;Undirected;a big data architecture for managing oceans of data and maritime applications
+515;516;Undirected;a big data architecture for managing oceans of data and maritime applications
+515;517;Undirected;a big data architecture for managing oceans of data and maritime applications
+516;514;Undirected;a big data architecture for managing oceans of data and maritime applications
+516;515;Undirected;a big data architecture for managing oceans of data and maritime applications
+516;517;Undirected;a big data architecture for managing oceans of data and maritime applications
+517;514;Undirected;a big data architecture for managing oceans of data and maritime applications
+517;515;Undirected;a big data architecture for managing oceans of data and maritime applications
+517;516;Undirected;a big data architecture for managing oceans of data and maritime applications
+518;519;Undirected;a big data privacy protection solution based on compressive sensing theory
+519;518;Undirected;a big data privacy protection solution based on compressive sensing theory
+520;521;Undirected;analysis and establishment of big data model
+520;522;Undirected;analysis and establishment of big data model
+521;520;Undirected;analysis and establishment of big data model
+521;522;Undirected;analysis and establishment of big data model
+522;520;Undirected;analysis and establishment of big data model
+522;521;Undirected;analysis and establishment of big data model
+523;524;Undirected;comparative study of tools for big data analytics: an analytical study
+523;525;Undirected;comparative study of tools for big data analytics: an analytical study
+524;523;Undirected;comparative study of tools for big data analytics: an analytical study
+524;525;Undirected;comparative study of tools for big data analytics: an analytical study
+525;523;Undirected;comparative study of tools for big data analytics: an analytical study
+525;524;Undirected;comparative study of tools for big data analytics: an analytical study
+526;527;Undirected;big spatial data processing with apache spark
+526;528;Undirected;big spatial data processing with apache spark
+526;529;Undirected;big spatial data processing with apache spark
+527;526;Undirected;big spatial data processing with apache spark
+527;528;Undirected;big spatial data processing with apache spark
+527;529;Undirected;big spatial data processing with apache spark
+528;526;Undirected;big spatial data processing with apache spark
+528;527;Undirected;big spatial data processing with apache spark
+528;529;Undirected;big spatial data processing with apache spark
+529;526;Undirected;big spatial data processing with apache spark
+529;527;Undirected;big spatial data processing with apache spark
+529;528;Undirected;big spatial data processing with apache spark
+531;532;Undirected;big data facilitation, utilization, and monetization: exploring the 3vs in a new product development process
+531;533;Undirected;big data facilitation, utilization, and monetization: exploring the 3vs in a new product development process
+532;531;Undirected;big data facilitation, utilization, and monetization: exploring the 3vs in a new product development process
+532;533;Undirected;big data facilitation, utilization, and monetization: exploring the 3vs in a new product development process
+533;531;Undirected;big data facilitation, utilization, and monetization: exploring the 3vs in a new product development process
+533;532;Undirected;big data facilitation, utilization, and monetization: exploring the 3vs in a new product development process
+534;535;Undirected;a survey on big data and collective intelligence
+534;536;Undirected;a survey on big data and collective intelligence
+534;537;Undirected;a survey on big data and collective intelligence
+534;538;Undirected;a survey on big data and collective intelligence
+535;534;Undirected;a survey on big data and collective intelligence
+535;536;Undirected;a survey on big data and collective intelligence
+535;537;Undirected;a survey on big data and collective intelligence
+535;538;Undirected;a survey on big data and collective intelligence
+536;534;Undirected;a survey on big data and collective intelligence
+536;535;Undirected;a survey on big data and collective intelligence
+536;537;Undirected;a survey on big data and collective intelligence
+536;538;Undirected;a survey on big data and collective intelligence
+537;534;Undirected;a survey on big data and collective intelligence
+537;535;Undirected;a survey on big data and collective intelligence
+537;536;Undirected;a survey on big data and collective intelligence
+537;538;Undirected;a survey on big data and collective intelligence
+538;534;Undirected;a survey on big data and collective intelligence
+538;535;Undirected;a survey on big data and collective intelligence
+538;536;Undirected;a survey on big data and collective intelligence
+538;537;Undirected;a survey on big data and collective intelligence
+539;540;Undirected;research on impact mechanism of big data on brand ecosystem
+539;541;Undirected;research on impact mechanism of big data on brand ecosystem
+540;539;Undirected;research on impact mechanism of big data on brand ecosystem
+540;541;Undirected;research on impact mechanism of big data on brand ecosystem
+541;539;Undirected;research on impact mechanism of big data on brand ecosystem
+541;540;Undirected;research on impact mechanism of big data on brand ecosystem
+542;338;Undirected;the role of big data analytics in internet of things
+542;336;Undirected;the role of big data analytics in internet of things
+542;543;Undirected;the role of big data analytics in internet of things
+542;544;Undirected;the role of big data analytics in internet of things
+542;545;Undirected;the role of big data analytics in internet of things
+542;546;Undirected;the role of big data analytics in internet of things
+543;542;Undirected;the role of big data analytics in internet of things
+543;338;Undirected;the role of big data analytics in internet of things
+543;336;Undirected;the role of big data analytics in internet of things
+543;544;Undirected;the role of big data analytics in internet of things
+543;545;Undirected;the role of big data analytics in internet of things
+543;546;Undirected;the role of big data analytics in internet of things
+544;542;Undirected;the role of big data analytics in internet of things
+544;338;Undirected;the role of big data analytics in internet of things
+544;336;Undirected;the role of big data analytics in internet of things
+544;543;Undirected;the role of big data analytics in internet of things
+544;545;Undirected;the role of big data analytics in internet of things
+544;546;Undirected;the role of big data analytics in internet of things
+545;542;Undirected;the role of big data analytics in internet of things
+545;338;Undirected;the role of big data analytics in internet of things
+545;336;Undirected;the role of big data analytics in internet of things
+545;543;Undirected;the role of big data analytics in internet of things
+545;544;Undirected;the role of big data analytics in internet of things
+545;546;Undirected;the role of big data analytics in internet of things
+546;542;Undirected;the role of big data analytics in internet of things
+546;338;Undirected;the role of big data analytics in internet of things
+546;336;Undirected;the role of big data analytics in internet of things
+546;543;Undirected;the role of big data analytics in internet of things
+546;544;Undirected;the role of big data analytics in internet of things
+546;545;Undirected;the role of big data analytics in internet of things
+547;548;Undirected;impact of big data on electric-power industry
+547;549;Undirected;impact of big data on electric-power industry
+548;547;Undirected;impact of big data on electric-power industry
+548;549;Undirected;impact of big data on electric-power industry
+549;547;Undirected;impact of big data on electric-power industry
+549;548;Undirected;impact of big data on electric-power industry
+550;551;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+550;552;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+550;553;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+551;550;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+551;552;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+551;553;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+552;550;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+552;551;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+552;553;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+553;550;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+553;551;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+553;552;Undirected;hyperbolic tangent activation function on fimt-dd algorithm analysis for airline big data
+555;556;Undirected;holistic perspective of big data in healthcare
+556;555;Undirected;holistic perspective of big data in healthcare
+557;558;Undirected;hadoop map only job for enciphering patient-generated health data
+558;557;Undirected;hadoop map only job for enciphering patient-generated health data
+559;560;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+559;561;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+559;562;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+560;559;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+560;561;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+560;562;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+561;559;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+561;560;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+561;562;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+562;559;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+562;560;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+562;561;Undirected;can sensors collect big data? an energy-efficient big data gathering algorithm for a wsn
+564;565;Undirected;big data in wisdom manufacturing for industry 4.0
+564;566;Undirected;big data in wisdom manufacturing for industry 4.0
+565;564;Undirected;big data in wisdom manufacturing for industry 4.0
+565;566;Undirected;big data in wisdom manufacturing for industry 4.0
+566;564;Undirected;big data in wisdom manufacturing for industry 4.0
+566;565;Undirected;big data in wisdom manufacturing for industry 4.0
+567;568;Undirected;a novel distributed recommendation framework using big data in social context
+567;569;Undirected;a novel distributed recommendation framework using big data in social context
+567;570;Undirected;a novel distributed recommendation framework using big data in social context
+567;571;Undirected;a novel distributed recommendation framework using big data in social context
+568;567;Undirected;a novel distributed recommendation framework using big data in social context
+568;569;Undirected;a novel distributed recommendation framework using big data in social context
+568;570;Undirected;a novel distributed recommendation framework using big data in social context
+568;571;Undirected;a novel distributed recommendation framework using big data in social context
+569;567;Undirected;a novel distributed recommendation framework using big data in social context
+569;568;Undirected;a novel distributed recommendation framework using big data in social context
+569;570;Undirected;a novel distributed recommendation framework using big data in social context
+569;571;Undirected;a novel distributed recommendation framework using big data in social context
+570;567;Undirected;a novel distributed recommendation framework using big data in social context
+570;568;Undirected;a novel distributed recommendation framework using big data in social context
+570;569;Undirected;a novel distributed recommendation framework using big data in social context
+570;571;Undirected;a novel distributed recommendation framework using big data in social context
+571;567;Undirected;a novel distributed recommendation framework using big data in social context
+571;568;Undirected;a novel distributed recommendation framework using big data in social context
+571;569;Undirected;a novel distributed recommendation framework using big data in social context
+571;570;Undirected;a novel distributed recommendation framework using big data in social context
+572;573;Undirected;big data in social welfare: the development of a critical perspective on social work's latest electronic turn
+573;572;Undirected;big data in social welfare: the development of a critical perspective on social work's latest electronic turn
+574;575;Undirected;utilizing big data in tourism marketing
+574;576;Undirected;utilizing big data in tourism marketing
+574;577;Undirected;utilizing big data in tourism marketing
+575;574;Undirected;utilizing big data in tourism marketing
+575;576;Undirected;utilizing big data in tourism marketing
+575;577;Undirected;utilizing big data in tourism marketing
+576;574;Undirected;utilizing big data in tourism marketing
+576;575;Undirected;utilizing big data in tourism marketing
+576;577;Undirected;utilizing big data in tourism marketing
+577;574;Undirected;utilizing big data in tourism marketing
+577;575;Undirected;utilizing big data in tourism marketing
+577;576;Undirected;utilizing big data in tourism marketing
+579;580;Undirected;a survey on big data in financial sector
+580;579;Undirected;a survey on big data in financial sector
+581;582;Undirected;a data model for integrating data management and data mining in social big data
+582;581;Undirected;a data model for integrating data management and data mining in social big data
+583;270;Undirected;systematic mapping study of big data mining tools and techniques
+584;585;Undirected;can big data tame a naughty world?
+584;586;Undirected;can big data tame a naughty world?
+585;584;Undirected;can big data tame a naughty world?
+585;586;Undirected;can big data tame a naughty world?
+586;584;Undirected;can big data tame a naughty world?
+586;585;Undirected;can big data tame a naughty world?
+587;588;Undirected;how to teach the undergraduate courses about gis in big data era
+587;589;Undirected;how to teach the undergraduate courses about gis in big data era
+587;590;Undirected;how to teach the undergraduate courses about gis in big data era
+588;587;Undirected;how to teach the undergraduate courses about gis in big data era
+588;589;Undirected;how to teach the undergraduate courses about gis in big data era
+588;590;Undirected;how to teach the undergraduate courses about gis in big data era
+589;587;Undirected;how to teach the undergraduate courses about gis in big data era
+589;588;Undirected;how to teach the undergraduate courses about gis in big data era
+589;590;Undirected;how to teach the undergraduate courses about gis in big data era
+590;587;Undirected;how to teach the undergraduate courses about gis in big data era
+590;588;Undirected;how to teach the undergraduate courses about gis in big data era
+590;589;Undirected;how to teach the undergraduate courses about gis in big data era
+591;592;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+591;593;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+591;594;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+591;595;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+592;591;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+592;593;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+592;594;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+592;595;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+593;591;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+593;592;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+593;594;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+593;595;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+594;591;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+594;592;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+594;593;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+594;595;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+595;591;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+595;592;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+595;593;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+595;594;Undirected;resource management in big data initiatives: processes and dynamic capabilities
+596;597;Undirected;review article on potentials of big data in the halal industry
+596;598;Undirected;review article on potentials of big data in the halal industry
+596;599;Undirected;review article on potentials of big data in the halal industry
+596;600;Undirected;review article on potentials of big data in the halal industry
+597;596;Undirected;review article on potentials of big data in the halal industry
+597;598;Undirected;review article on potentials of big data in the halal industry
+597;599;Undirected;review article on potentials of big data in the halal industry
+597;600;Undirected;review article on potentials of big data in the halal industry
+598;596;Undirected;review article on potentials of big data in the halal industry
+598;597;Undirected;review article on potentials of big data in the halal industry
+598;599;Undirected;review article on potentials of big data in the halal industry
+598;600;Undirected;review article on potentials of big data in the halal industry
+599;596;Undirected;review article on potentials of big data in the halal industry
+599;597;Undirected;review article on potentials of big data in the halal industry
+599;598;Undirected;review article on potentials of big data in the halal industry
+599;600;Undirected;review article on potentials of big data in the halal industry
+600;596;Undirected;review article on potentials of big data in the halal industry
+600;597;Undirected;review article on potentials of big data in the halal industry
+600;598;Undirected;review article on potentials of big data in the halal industry
+600;599;Undirected;review article on potentials of big data in the halal industry
+601;602;Undirected;big data and cloud computing: innovation opportunities and challenges
+601;603;Undirected;big data and cloud computing: innovation opportunities and challenges
+601;604;Undirected;big data and cloud computing: innovation opportunities and challenges
+601;605;Undirected;big data and cloud computing: innovation opportunities and challenges
+602;601;Undirected;big data and cloud computing: innovation opportunities and challenges
+602;603;Undirected;big data and cloud computing: innovation opportunities and challenges
+602;604;Undirected;big data and cloud computing: innovation opportunities and challenges
+602;605;Undirected;big data and cloud computing: innovation opportunities and challenges
+603;601;Undirected;big data and cloud computing: innovation opportunities and challenges
+603;602;Undirected;big data and cloud computing: innovation opportunities and challenges
+603;604;Undirected;big data and cloud computing: innovation opportunities and challenges
+603;605;Undirected;big data and cloud computing: innovation opportunities and challenges
+604;601;Undirected;big data and cloud computing: innovation opportunities and challenges
+604;602;Undirected;big data and cloud computing: innovation opportunities and challenges
+604;603;Undirected;big data and cloud computing: innovation opportunities and challenges
+604;605;Undirected;big data and cloud computing: innovation opportunities and challenges
+605;601;Undirected;big data and cloud computing: innovation opportunities and challenges
+605;602;Undirected;big data and cloud computing: innovation opportunities and challenges
+605;603;Undirected;big data and cloud computing: innovation opportunities and challenges
+605;604;Undirected;big data and cloud computing: innovation opportunities and challenges
+606;607;Undirected;requirements analysis and application research of big data in power network dispatching and planning
+606;608;Undirected;requirements analysis and application research of big data in power network dispatching and planning
+607;606;Undirected;requirements analysis and application research of big data in power network dispatching and planning
+607;608;Undirected;requirements analysis and application research of big data in power network dispatching and planning
+608;606;Undirected;requirements analysis and application research of big data in power network dispatching and planning
+608;607;Undirected;requirements analysis and application research of big data in power network dispatching and planning
+610;611;Undirected;the role of big data management to enhance business performance
+611;610;Undirected;the role of big data management to enhance business performance
+613;614;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+613;615;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+613;616;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+613;617;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+614;613;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+614;615;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+614;616;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+614;617;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+615;613;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+615;614;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+615;616;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+615;617;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+616;613;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+616;614;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+616;615;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+616;617;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+617;613;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+617;614;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+617;615;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+617;616;Undirected;hb-file: an efficient and effective high-dimensional big data storage structure based on us-elm
+619;620;Undirected;a synergetic model for implementing big data in organizations: an empirical study
+620;619;Undirected;a synergetic model for implementing big data in organizations: an empirical study
+621;622;Undirected;the future of big data in facilities management: opportunities and challenges
+621;623;Undirected;the future of big data in facilities management: opportunities and challenges
+621;624;Undirected;the future of big data in facilities management: opportunities and challenges
+622;621;Undirected;the future of big data in facilities management: opportunities and challenges
+622;623;Undirected;the future of big data in facilities management: opportunities and challenges
+622;624;Undirected;the future of big data in facilities management: opportunities and challenges
+623;621;Undirected;the future of big data in facilities management: opportunities and challenges
+623;622;Undirected;the future of big data in facilities management: opportunities and challenges
+623;624;Undirected;the future of big data in facilities management: opportunities and challenges
+624;621;Undirected;the future of big data in facilities management: opportunities and challenges
+624;622;Undirected;the future of big data in facilities management: opportunities and challenges
+624;623;Undirected;the future of big data in facilities management: opportunities and challenges
+625;626;Undirected;the etymology of big data on government processes
+626;625;Undirected;the etymology of big data on government processes
+628;629;Undirected;how audi ag established big data analytics in its digital transformation
+628;630;Undirected;how audi ag established big data analytics in its digital transformation
+628;631;Undirected;how audi ag established big data analytics in its digital transformation
+628;632;Undirected;how audi ag established big data analytics in its digital transformation
+629;628;Undirected;how audi ag established big data analytics in its digital transformation
+629;630;Undirected;how audi ag established big data analytics in its digital transformation
+629;631;Undirected;how audi ag established big data analytics in its digital transformation
+629;632;Undirected;how audi ag established big data analytics in its digital transformation
+630;628;Undirected;how audi ag established big data analytics in its digital transformation
+630;629;Undirected;how audi ag established big data analytics in its digital transformation
+630;631;Undirected;how audi ag established big data analytics in its digital transformation
+630;632;Undirected;how audi ag established big data analytics in its digital transformation
+631;628;Undirected;how audi ag established big data analytics in its digital transformation
+631;629;Undirected;how audi ag established big data analytics in its digital transformation
+631;630;Undirected;how audi ag established big data analytics in its digital transformation
+631;632;Undirected;how audi ag established big data analytics in its digital transformation
+632;628;Undirected;how audi ag established big data analytics in its digital transformation
+632;629;Undirected;how audi ag established big data analytics in its digital transformation
+632;630;Undirected;how audi ag established big data analytics in its digital transformation
+632;631;Undirected;how audi ag established big data analytics in its digital transformation
+633;634;Undirected;a big data architecture for learning analytics in higher education
+634;633;Undirected;a big data architecture for learning analytics in higher education
+635;636;Undirected;research on precision marketing of university teaching materials in big data era
+636;635;Undirected;research on precision marketing of university teaching materials in big data era
+637;638;Undirected;data science, learning, and applications to biomedical and health sciences
+637;639;Undirected;data science, learning, and applications to biomedical and health sciences
+638;637;Undirected;data science, learning, and applications to biomedical and health sciences
+638;639;Undirected;data science, learning, and applications to biomedical and health sciences
+639;637;Undirected;data science, learning, and applications to biomedical and health sciences
+639;638;Undirected;data science, learning, and applications to biomedical and health sciences
+641;642;Undirected;making sense of big data for security
+642;641;Undirected;making sense of big data for security
+643;644;Undirected;quality profile-based cloud service selection for fulfilling big data processing requirements
+643;645;Undirected;quality profile-based cloud service selection for fulfilling big data processing requirements
+644;643;Undirected;quality profile-based cloud service selection for fulfilling big data processing requirements
+644;645;Undirected;quality profile-based cloud service selection for fulfilling big data processing requirements
+645;643;Undirected;quality profile-based cloud service selection for fulfilling big data processing requirements
+645;644;Undirected;quality profile-based cloud service selection for fulfilling big data processing requirements
+646;647;Undirected;research overview of big data in the field of equipment support
+646;648;Undirected;research overview of big data in the field of equipment support
+647;646;Undirected;research overview of big data in the field of equipment support
+647;648;Undirected;research overview of big data in the field of equipment support
+648;646;Undirected;research overview of big data in the field of equipment support
+648;647;Undirected;research overview of big data in the field of equipment support
+649;650;Undirected;a framework for business process data management based on big data approach
+650;649;Undirected;a framework for business process data management based on big data approach
+651;652;Undirected;saving costs with a big data strategy framework
+652;651;Undirected;saving costs with a big data strategy framework
