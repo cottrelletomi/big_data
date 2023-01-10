@@ -1,11 +1,12 @@
-import glob
 from collections import deque
+import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
 import networkx as nx
 import pandas as pd
+import numpy as np
 import random
 import time
-
+import glob
 
 def measure_time(func):
     def wrapper(*args, **kwargs):
@@ -172,13 +173,23 @@ def girvan_newman(graph):
                     graph[edge[0]].remove(e)
     return graph
 
+def convert_graph_distance_matrix(graph):
+    labels = list(graph.keys())
+    dist_matrix = [[0 for x in range(len(labels))] for y in range(len(labels))]
+    for i in range(len(labels)):
+        for j in range(len(labels)):
+            if i != j:
+                if labels[j] in [x[0] for x in graph[labels[i]]]:
+                    dist_matrix[i][j] = 1
+    return np.array(dist_matrix), labels
+
 @measure_time
-def main(save_csv_graph=False, save_csv_community=False, save_img=False):
+def main(save_csv_graph=False, save_csv_community=False, save_img=False, save_dendrogram=False):
     min_component_size = 4
     max_component_size = 30
     verbose = False
 
-    files = glob.glob("ressources/large/*.csv")
+    files = glob.glob("ressources/small/*.csv")
     step = 1
     for file in files:
         print("Step (%d/%d) : Processing of %s" % (step, len(files), file))
@@ -190,7 +201,7 @@ def main(save_csv_graph=False, save_csv_community=False, save_img=False):
             path = f"output/{dataset_size}/csv_graph/data_{dataset_year}_"
             save_graph(graph, path)
 
-        if save_csv_community or save_img:
+        if save_csv_community or save_img or save_dendrogram:
             graph_community = {}
             components = network_components(graph)
             print(f"Number of components: {len(components)}")
@@ -219,6 +230,11 @@ def main(save_csv_graph=False, save_csv_community=False, save_img=False):
             if save_csv_community:
                 path = f"output/{dataset_size}/csv_community/data_{dataset_year}_"
                 save_graph(graph_community, path)
+            if save_dendrogram:
+                path = f"output/{dataset_size}/dendrogram/dendrogram_{dataset_year}.svg"
+                dist_matrix, labels = convert_graph_distance_matrix(graph_community)
+                fig = ff.create_dendrogram(dist_matrix, labels=labels)
+                fig.write_image(path)
         step += 1
 
 graph = {
@@ -236,4 +252,4 @@ graph = {
 
 # Import files in Gephi : https://www.youtube.com/watch?v=FpOIbhOmGUs
 # If Gephi bug : Just deleted the ~/Library/Application Support/gephi directory and it worked.
-main(True, True, True)
+main(save_dendrogram=True)
